@@ -1,512 +1,8 @@
 [
   {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 10 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "62.39 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 10, 24, 52, 108, ___",
-    "Type": "Elite Number Series",
-    "Answer": "220",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 15 cm, 14 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "84.00 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 16) = 6",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 12 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "30.00 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 8 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "16.69 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 24, 75, 228, 687, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2064",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 18, 57, 174, 525, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1578",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 14, 30, 62, 126, ___",
-    "Type": "Elite Number Series",
-    "Answer": "254",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
-    "Type": "Elite Number Series",
-    "Answer": "159",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 15 cm, 15 cm, and 10 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "70.71 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x - 2) = 4",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 0) = 5",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 29, 89, 269, 809, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2429",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 19, 41, 85, 173, ___",
-    "Type": "Elite Number Series",
-    "Answer": "349",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 41) = 9",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 33) = 6",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 33) = 6",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/4)^2 * (3/4)^4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 7 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "12.97 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 46) = 8",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 9 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "14.14 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 28) = 6",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 17, 56, 173, 524, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1577",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 49) = 8",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 9 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "39.18 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 6 cm, and 10 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "26.66 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 29, 92, 281, 848, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2549",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 14 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "72.31 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 19, 43, 91, 187, ___",
-    "Type": "Elite Number Series",
-    "Answer": "379",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 9 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "39.18 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 8 cm, and 10 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "39.98 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 6 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "14.14 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 29, 92, 281, 848, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2549",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 12 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "42.79 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 34) = 6",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 24) = 8",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 31) = 9",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 7 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "14.95 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 10) = 4",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
     "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
     "Type": "Elite Probability",
     "Answer": "15 * (1/3)^4 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 29) = 7",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 7) = 5",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 12 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "61.48 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 5 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "12.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^2 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^2 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 25, 76, 229, 688, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2065",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 5 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "26.89 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 9) = 5",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x - 4) = 4",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 29, 89, 269, 809, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2429",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 15, 35, 75, 155, ___",
-    "Type": "Elite Number Series",
-    "Answer": "315",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 14 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "45.17 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 10 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "11.40 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 21) = 6",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 24) = 7",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 10) = 5",
-    "Type": "High Algebra",
-    "Answer": "5",
     "Difficulty": "Expert"
   },
   {
@@ -516,1239 +12,9 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 11 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "48.99 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 54) = 8",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 7, 17, 37, 77, ___",
-    "Type": "Elite Number Series",
-    "Answer": "157",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 5 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "19.81 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x - 8) = 4",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 15 cm, and 10 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "67.71 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 8 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "31.22 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/4)^3 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 8 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "19.90 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 26, 83, 254, 767, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2306",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 14) = 4",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 16, 34, 70, 142, ___",
-    "Type": "Elite Number Series",
-    "Answer": "286",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/4)^4 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 31, 97, 295, 889, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2671",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 8, 26, 80, 242, ___",
-    "Type": "Elite Number Series",
-    "Answer": "728",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 28, 85, 256, 769, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2308",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 18) = 6",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 10, 22, 46, 94, ___",
-    "Type": "Elite Number Series",
-    "Answer": "190",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^4 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 33) = 6",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 15, 35, 75, 155, ___",
-    "Type": "Elite Number Series",
-    "Answer": "315",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 9) = 7",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 24, 75, 228, 687, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2064",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 12 cm, and 15 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "34.20 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 12 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "47.00 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 14 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "58.79 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 13 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "37.95 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 21, 66, 201, 606, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1821",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/4)^3 * (3/4)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 7 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "17.32 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 14 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "53.67 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 22, 67, 202, 607, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1822",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 21, 45, 93, 189, ___",
-    "Type": "Elite Number Series",
-    "Answer": "381",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 9 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "59.66 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 8) = 4",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 11 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "38.53 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 31) = 6",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 50) = 10",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 43) = 7",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 15, 48, 147, 444, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1335",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 15 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "41.96 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 9 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "56.92 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^4 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 9, 30, 93, 282, ___",
-    "Type": "Elite Number Series",
-    "Answer": "849",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 6, 14, 30, 62, ___",
-    "Type": "Elite Number Series",
-    "Answer": "126",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^5 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 46) = 8",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 11 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "32.84 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 44) = 7",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 9 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "39.60 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x - 8) = 4",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 7 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "38.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 25, 76, 229, 688, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2065",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 4) = 4",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 15, 31, 63, 127, ___",
-    "Type": "Elite Number Series",
-    "Answer": "255",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 13 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "48.81 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 21, 45, 93, 189, ___",
-    "Type": "Elite Number Series",
-    "Answer": "381",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 46) = 8",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x - 4) = 4",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 6 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "14.70 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 11 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "63.71 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 61) = 9",
+    "Question": "Solve for x: sqrt(2x + 56) = 8",
     "Type": "High Algebra",
     "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/4)^4 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 12 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "32.84 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 11 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "57.68 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 59) = 8",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 17, 39, 83, 171, ___",
-    "Type": "Elite Number Series",
-    "Answer": "347",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
-    "Type": "Elite Number Series",
-    "Answer": "159",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 7 cm, and 15 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "35.96 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 25, 79, 241, 727, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2185",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 32, 101, 308, 929, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2792",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^2 * (2/3)^4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 17, 39, 83, 171, ___",
-    "Type": "Elite Number Series",
-    "Answer": "347",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/4)^3 * (3/4)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 11 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "31.95 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 41) = 7",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 30, 93, 282, 849, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2550",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 6 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "35.89 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 9, 23, 51, 107, ___",
-    "Type": "Elite Number Series",
-    "Answer": "219",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 45) = 7",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 23, 51, 107, 219, ___",
-    "Type": "Elite Number Series",
-    "Answer": "443",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 21) = 7",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 10 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "16.58 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 9 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "32.25 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 16) = 6",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x - 3) = 5",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 9 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "24.13 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 17, 53, 161, 485, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1457",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 22, 70, 214, 646, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1942",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^5 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^5 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 6 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "18.97 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 15, 31, 63, 127, ___",
-    "Type": "Elite Number Series",
-    "Answer": "255",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 23, 71, 215, 647, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1943",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 9 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "26.14 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
-    "Type": "Elite Number Series",
-    "Answer": "159",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 6 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "28.84 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 13, 43, 133, 403, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1213",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 10, 31, 94, 283, ___",
-    "Type": "Elite Number Series",
-    "Answer": "850",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/4)^4 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 37) = 7",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/4)^3 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/4)^3 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 51) = 9",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/4)^3 * (3/4)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/4)^3 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 14, 32, 68, 140, ___",
-    "Type": "Elite Number Series",
-    "Answer": "284",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 43) = 8",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 8 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "24.25 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 7, 17, 37, 77, ___",
-    "Type": "Elite Number Series",
-    "Answer": "157",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 15, 48, 147, 444, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1335",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 6 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "22.25 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 8) = 6",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 15 cm, 14 cm, and 10 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "67.71 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x - 11) = 4",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^5 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 31) = 7",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 0) = 6",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 27, 84, 255, 768, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2307",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 12 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "40.25 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 28, 88, 268, 808, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2428",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 29, 89, 269, 809, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2429",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
-    "Type": "Elite Number Series",
-    "Answer": "159",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/4)^4 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 13 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "56.92 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 10 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "20.66 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^4 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 10 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "34.98 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 17, 35, 71, 143, ___",
-    "Type": "Elite Number Series",
-    "Answer": "287",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 11) = 6",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 10 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "39.19 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/4)^3 * (3/4)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 6 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "23.66 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 15, 48, 147, 444, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1335",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 9 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "35.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 26) = 6",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 41) = 9",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 73) = 9",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 26) = 6",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 62) = 8",
-    "Type": "High Algebra",
-    "Answer": "1",
     "Difficulty": "Expert"
   },
   {
@@ -1758,999 +24,9 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "Solve for x: sqrt(4x + 24) = 8",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 11 cm, and 11 cm using Heron's Formula.",
+    "Question": "Find the area of a triangle with sides 8 cm, 6 cm, and 9 cm using Heron's Formula.",
     "Type": "Elite Geometry",
-    "Answer": "55.32 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 13 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "41.57 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 13 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "76.68 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 30, 93, 282, 849, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2550",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 9, 21, 45, 93, ___",
-    "Type": "Elite Number Series",
-    "Answer": "189",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 41) = 7",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 7 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "18.97 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 5) = 5",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 7 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "38.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 19) = 5",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 9 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "35.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 12, 28, 60, 124, ___",
-    "Type": "Elite Number Series",
-    "Answer": "252",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 8 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "53.67 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 11 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "32.86 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 27) = 6",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 49) = 8",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 10, 22, 46, 94, ___",
-    "Type": "Elite Number Series",
-    "Answer": "190",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x - 4) = 4",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 15 cm, 12 cm, and 10 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "59.81 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 33) = 7",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 53) = 9",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 15) = 5",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 5 cm, and 15 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "19.14 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 16) = 6",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^4 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 44) = 8",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^5 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 78) = 9",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 56) = 8",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 6 cm, and 13 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "28.84 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 10 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "19.81 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 14, 44, 134, 404, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1214",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 29, 89, 269, 809, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2429",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 9 cm, 15 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "49.16 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 9 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "35.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 13 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "39.98 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 40) = 8",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 6 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "26.66 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 22) = 7",
-    "Type": "High Algebra",
-    "Answer": "9",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 12) = 6",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 8, 18, 38, 78, ___",
-    "Type": "Elite Number Series",
-    "Answer": "158",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 11 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "37.95 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 44) = 7",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 4, 10, 22, 46, 94, ___",
-    "Type": "Elite Number Series",
-    "Answer": "190",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 11, 35, 107, 323, ___",
-    "Type": "Elite Number Series",
-    "Answer": "971",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 8, 18, 38, 78, ___",
-    "Type": "Elite Number Series",
-    "Answer": "158",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 7 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "21.63 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 13, 29, 61, 125, ___",
-    "Type": "Elite Number Series",
-    "Answer": "253",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 20, 44, 92, 188, ___",
-    "Type": "Elite Number Series",
-    "Answer": "380",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^2 * (3/4)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 14 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "75.89 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^5 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 30, 93, 282, 849, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2550",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 12) = 6",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 6 cm, 15 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "41.96 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 19) = 7",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^2 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 9 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "40.25 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/3)^2 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 11 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "38.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 8) = 4",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 8, 26, 80, 242, ___",
-    "Type": "Elite Number Series",
-    "Answer": "728",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/4)^2 * (3/4)^4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 12 cm, 5 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "27.50 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 14 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "34.44 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 14 cm, and 15 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "48.74 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 10, 24, 52, 108, ___",
-    "Type": "Elite Number Series",
-    "Answer": "220",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 10 cm, 15 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "59.81 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/4)^4 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 12, 26, 54, 110, ___",
-    "Type": "Elite Number Series",
-    "Answer": "222",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x - 15) = 5",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 70) = 10",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 15, 35, 75, 155, ___",
-    "Type": "Elite Number Series",
-    "Answer": "315",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 60) = 10",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^2 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^2 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 18, 40, 84, 172, ___",
-    "Type": "Elite Number Series",
-    "Answer": "348",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 6 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "26.98 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 29, 89, 269, 809, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2429",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^4 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 12 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "45.25 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 14 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "41.02 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "20 * (1/3)^3 * (2/3)^3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 17, 53, 161, 485, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1457",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "1440",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "4 * (1/3)^3 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 15) = 5",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x - 14) = 4",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 65) = 9",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 7, 26, 83, 254, 767, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2306",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 12 cm, and 15 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "47.81 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 8 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "19.90 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(5x + 34) = 8",
-    "Type": "High Algebra",
-    "Answer": "6",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 13 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "16.89 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 61) = 9",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 10 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "11.40 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 8 cm, and 12 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "14.52 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 5, 19, 61, 187, 565, ___",
-    "Type": "Elite Number Series",
-    "Answer": "1699",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 6 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "17.06 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x - 16) = 4",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 6 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "17.06 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 7 cm, 8 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "18.80 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 11 cm, 7 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "37.95 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 23, 74, 227, 686, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2063",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 8 cm, 5 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "12.00 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 8, 27, 84, 255, 768, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2307",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 6, 13, 27, 55, 111, ___",
-    "Type": "Elite Number Series",
-    "Answer": "223",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "15 * (1/4)^2 * (3/4)^4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 2, 5, 11, 23, 47, ___",
-    "Type": "Elite Number Series",
-    "Answer": "95",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 15 cm, 15 cm, and 7 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "51.05 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 6 cm, and 14 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "38.94 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 5) = 5",
-    "Type": "High Algebra",
-    "Answer": "5",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 13 cm, and 8 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "51.17 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 30) = 6",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "240",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/4)^4 * (3/4)^1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 9) = 7",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 9, 32, 101, 308, 929, ___",
-    "Type": "Elite Number Series",
-    "Answer": "2792",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Answer": "23.53 sq cm",
     "Difficulty": "Expert"
   },
   {
@@ -2760,141 +36,33 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "Find the next term in the series: 6, 17, 39, 83, 171, ___",
-    "Type": "Elite Number Series",
-    "Answer": "347",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 53) = 9",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 60) = 8",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 61) = 8",
-    "Type": "High Algebra",
-    "Answer": "1",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 88) = 10",
-    "Type": "High Algebra",
-    "Answer": "3",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x - 5) = 5",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 5 cm, 10 cm, and 9 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "22.45 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "10080",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 14 cm, 12 cm, and 5 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "29.23 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x - 5) = 4",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 41) = 9",
-    "Type": "High Algebra",
-    "Answer": "10",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 7, 15, 31, 63, ___",
-    "Type": "Elite Number Series",
-    "Answer": "127",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "10 * (1/3)^3 * (2/3)^2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(2x + 50) = 8",
-    "Type": "High Algebra",
-    "Answer": "7",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 4) = 4",
-    "Type": "High Algebra",
-    "Answer": "4",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "12",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 43) = 7",
-    "Type": "High Algebra",
-    "Answer": "2",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the next term in the series: 3, 10, 24, 52, 108, ___",
-    "Type": "Elite Number Series",
-    "Answer": "220",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 40) = 8",
-    "Type": "High Algebra",
-    "Answer": "8",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Find the area of a triangle with sides 13 cm, 12 cm, and 6 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "35.89 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
     "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
     "Type": "Advanced Combinatorics",
     "Answer": "1440",
     "Difficulty": "Expert"
   },
   {
-    "Question": "Solve for x: sqrt(4x + 4) = 4",
-    "Type": "High Algebra",
-    "Answer": "3",
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "20 * (1/4)^3 * (3/4)^3",
     "Difficulty": "Expert"
   },
   {
-    "Question": "Solve for x: sqrt(4x + 29) = 7",
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 19) = 7",
     "Type": "High Algebra",
-    "Answer": "5",
+    "Answer": "10",
     "Difficulty": "Expert"
   },
   {
@@ -2904,15 +72,21 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Question": "Solve for x: sqrt(4x + 24) = 6",
+    "Type": "High Algebra",
+    "Answer": "3",
     "Difficulty": "Expert"
   },
   {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
-    "Type": "Elite Probability",
-    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Question": "Solve for x: sqrt(2x + 26) = 6",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
     "Difficulty": "Expert"
   },
   {
@@ -2922,15 +96,153 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
     "Type": "Elite Probability",
-    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
     "Difficulty": "Expert"
   },
   {
-    "Question": "Find the area of a triangle with sides 13 cm, 13 cm, and 7 cm using Heron's Formula.",
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 7 cm, and 5 cm using Heron's Formula.",
     "Type": "Elite Geometry",
-    "Answer": "43.82 sq cm",
+    "Answer": "16.25 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 10) = 4",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 13 cm, and 12 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "30.00 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 17, 39, 83, 171, ___",
+    "Type": "Elite Number Series",
+    "Answer": "347",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^5 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 4) = 4",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 14 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "80.60 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x - 15) = 5",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 12 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "69.20 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x - 4) = 4",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 19, 43, 91, 187, ___",
+    "Type": "Elite Number Series",
+    "Answer": "379",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 22, 48, 100, 204, ___",
+    "Type": "Elite Number Series",
+    "Answer": "412",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 28, 88, 268, 808, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2428",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 10 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "22.45 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 12 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "40.17 sq cm",
     "Difficulty": "Expert"
   },
   {
@@ -2946,33 +258,147 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
-    "Type": "Advanced Combinatorics",
-    "Answer": "48",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(4x + 45) = 7",
+    "Question": "Solve for x: sqrt(3x + 7) = 4",
     "Type": "High Algebra",
-    "Answer": "1",
+    "Answer": "3",
     "Difficulty": "Expert"
   },
   {
-    "Question": "Find the next term in the series: 6, 22, 70, 214, 646, ___",
+    "Question": "Find the next term in the series: 5, 16, 49, 148, 445, ___",
     "Type": "Elite Number Series",
-    "Answer": "1942",
+    "Answer": "1336",
     "Difficulty": "Expert"
   },
   {
-    "Question": "Find the area of a triangle with sides 11 cm, 15 cm, and 11 cm using Heron's Formula.",
-    "Type": "Elite Geometry",
-    "Answer": "60.35 sq cm",
-    "Difficulty": "Expert"
-  },
-  {
-    "Question": "Solve for x: sqrt(3x + 88) = 10",
+    "Question": "Solve for x: sqrt(3x - 2) = 5",
     "Type": "High Algebra",
-    "Answer": "4",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 0) = 5",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 8 cm, and 5 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "19.81 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 7, 22, 67, 202, ___",
+    "Type": "Elite Number Series",
+    "Answer": "607",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 45) = 7",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 32, 101, 308, 929, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2792",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 12 cm, and 14 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "68.23 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 7 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "34.64 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 21, 47, 99, 203, ___",
+    "Type": "Elite Number Series",
+    "Answer": "411",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 13, 43, 133, 403, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1213",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
     "Difficulty": "Expert"
   },
   {
@@ -2988,15 +414,2589 @@
     "Difficulty": "Expert"
   },
   {
-    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Question": "Find the area of a triangle with sides 8 cm, 6 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "23.53 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
     "Type": "Elite Probability",
-    "Answer": "10 * (1/4)^3 * (3/4)^2",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 26) = 6",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 18, 57, 174, 525, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1578",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 17, 39, 83, 171, ___",
+    "Type": "Elite Number Series",
+    "Answer": "347",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 7 cm, and 15 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "51.05 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 14 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "32.97 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 34) = 7",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 9, 23, 51, 107, ___",
+    "Type": "Elite Number Series",
+    "Answer": "219",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 92) = 10",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 11 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "59.40 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 7, 15, 31, 63, ___",
+    "Type": "Elite Number Series",
+    "Answer": "127",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 15) = 6",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 19) = 5",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 41) = 9",
+    "Type": "High Algebra",
+    "Answer": "10",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 24) = 6",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 30, 93, 282, 849, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2550",
     "Difficulty": "Expert"
   },
   {
     "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
     "Type": "Advanced Combinatorics",
     "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 8 cm, and 6 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "14.98 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 90) = 10",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 14 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "67.71 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x - 5) = 4",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/4)^4 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 60) = 8",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 11 cm, 12 cm, and 15 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "65.24 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 11, 23, 47, 95, ___",
+    "Type": "Elite Number Series",
+    "Answer": "191",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/4)^4 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 14, 47, 146, 443, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1334",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 52) = 8",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 96) = 10",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 25) = 7",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 10 cm, and 5 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "24.54 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 8 cm, 9 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "32.25 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 25, 79, 241, 727, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2185",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 9 cm, 8 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "26.83 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 15, 35, 75, 155, ___",
+    "Type": "Elite Number Series",
+    "Answer": "315",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 5 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "22.45 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^5 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 95) = 10",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 9 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "44.84 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 11, 35, 107, 323, ___",
+    "Type": "Elite Number Series",
+    "Answer": "971",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 11, 27, 59, 123, ___",
+    "Type": "Elite Number Series",
+    "Answer": "251",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x - 5) = 4",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x - 2) = 5",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 26) = 6",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 6 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "14.98 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^5 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 9 cm, 8 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.76 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 18) = 6",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 6) = 4",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 9) = 5",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 16, 36, 76, 156, ___",
+    "Type": "Elite Number Series",
+    "Answer": "316",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^5 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 13, 40, 121, 364, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1093",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 21) = 5",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 61) = 9",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 15, 48, 147, 444, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1335",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 10) = 4",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 14, 32, 68, 140, ___",
+    "Type": "Elite Number Series",
+    "Answer": "284",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 54) = 8",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 11 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "48.99 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 4) = 4",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 21, 66, 201, 606, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1821",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 10 cm, and 12 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "34.98 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 19) = 7",
+    "Type": "High Algebra",
+    "Answer": "10",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 6 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "18.97 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 40) = 8",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 13, 29, 61, 125, ___",
+    "Type": "Elite Number Series",
+    "Answer": "253",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 5, 11, 23, 47, ___",
+    "Type": "Elite Number Series",
+    "Answer": "95",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 17, 35, 71, 143, ___",
+    "Type": "Elite Number Series",
+    "Answer": "287",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 17, 35, 71, 143, ___",
+    "Type": "Elite Number Series",
+    "Answer": "287",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 5 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "24.98 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 17, 35, 71, 143, ___",
+    "Type": "Elite Number Series",
+    "Answer": "287",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 6 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "18.41 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 7 cm, and 12 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "41.23 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 69) = 9",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 6) = 6",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 56) = 9",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 14 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "62.39 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 39) = 7",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 46) = 9",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 48) = 8",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 52) = 8",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 18) = 6",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 12, 28, 60, 124, ___",
+    "Type": "Elite Number Series",
+    "Answer": "252",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "20 * (1/3)^3 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 11 cm, 14 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "59.40 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 11 cm, and 15 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "35.96 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 12, 39, 120, 363, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1092",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^5 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 18, 38, 78, 158, ___",
+    "Type": "Elite Number Series",
+    "Answer": "318",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 23, 51, 107, 219, ___",
+    "Type": "Elite Number Series",
+    "Answer": "443",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 7 cm, and 14 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "32.97 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 13 cm, and 15 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "84.00 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 10) = 5",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 9 cm, 9 cm, and 6 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "25.46 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 96) = 10",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 8, 20, 44, 92, ___",
+    "Type": "Elite Number Series",
+    "Answer": "188",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 12 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "24.54 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 7 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "26.83 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 69) = 9",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 14 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "39.19 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 15 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "19.14 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 11 cm, 13 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "38.50 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 11 cm, 7 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "38.50 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 11 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "49.16 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 11, 25, 53, 109, ___",
+    "Type": "Elite Number Series",
+    "Answer": "221",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 72) = 9",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 15, 48, 147, 444, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1335",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "20 * (1/4)^3 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 16, 34, 70, 142, ___",
+    "Type": "Elite Number Series",
+    "Answer": "286",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 34) = 6",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 13, 31, 67, 139, ___",
+    "Type": "Elite Number Series",
+    "Answer": "283",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 21, 66, 201, 606, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1821",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 55) = 8",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 16, 36, 76, 156, ___",
+    "Type": "Elite Number Series",
+    "Answer": "316",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 8 cm, 6 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "20.33 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 9) = 5",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 31, 97, 295, 889, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2671",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 15) = 5",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
+    "Type": "Elite Number Series",
+    "Answer": "159",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 6 cm, 12 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "14.95 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 85) = 10",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 36) = 9",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/4)^4 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 0) = 6",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^3 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 13, 40, 121, 364, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1093",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 15 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "65.24 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 8 cm, 11 cm, and 12 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "42.79 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 16, 36, 76, 156, ___",
+    "Type": "Elite Number Series",
+    "Answer": "316",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 12 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "57.00 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 14, 44, 134, 404, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1214",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 14 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "62.39 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 8 cm, 6 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "23.42 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 7) = 5",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 7, 22, 67, 202, ___",
+    "Type": "Elite Number Series",
+    "Answer": "607",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 18, 57, 174, 525, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1578",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 8, 20, 44, 92, ___",
+    "Type": "Elite Number Series",
+    "Answer": "188",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x - 9) = 4",
+    "Type": "High Algebra",
+    "Answer": "5",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 14 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "59.66 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 14, 44, 134, 404, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1214",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 9, 30, 93, 282, ___",
+    "Type": "Elite Number Series",
+    "Answer": "849",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 64) = 10",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 9 cm, and 15 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "43.63 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x - 14) = 4",
+    "Type": "High Algebra",
+    "Answer": "10",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 10, 31, 94, 283, ___",
+    "Type": "Elite Number Series",
+    "Answer": "850",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x - 10) = 5",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 7, 22, 67, 202, ___",
+    "Type": "Elite Number Series",
+    "Answer": "607",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 22, 48, 100, 204, ___",
+    "Type": "Elite Number Series",
+    "Answer": "412",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 86) = 10",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 15, 35, 75, 155, ___",
+    "Type": "Elite Number Series",
+    "Answer": "315",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 6 cm, 6 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "13.19 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 23, 51, 107, 219, ___",
+    "Type": "Elite Number Series",
+    "Answer": "443",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 16, 49, 148, 445, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1336",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 13, 43, 133, 403, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1213",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 14, 44, 134, 404, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1214",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 8 cm, 6 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "22.25 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 17, 53, 161, 485, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1457",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 7 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "21.22 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 16, 52, 160, 484, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1456",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 11 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "43.82 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 88) = 10",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 22, 70, 214, 646, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1942",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/4)^4 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 18, 38, 78, 158, ___",
+    "Type": "Elite Number Series",
+    "Answer": "318",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
+    "Type": "Elite Number Series",
+    "Answer": "159",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 19, 61, 187, 565, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1699",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "4 * (1/4)^3 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 5 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "22.45 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 19, 39, 79, 159, ___",
+    "Type": "Elite Number Series",
+    "Answer": "319",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 23, 71, 215, 647, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1943",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 30) = 6",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 34) = 6",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 10, 31, 94, 283, ___",
+    "Type": "Elite Number Series",
+    "Answer": "850",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 15, 33, 69, 141, ___",
+    "Type": "Elite Number Series",
+    "Answer": "285",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/4)^4 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 12 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "57.00 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^5 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^4 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 27, 84, 255, 768, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2307",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 20, 42, 86, 174, ___",
+    "Type": "Elite Number Series",
+    "Answer": "350",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 92) = 10",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 10 cm, and 6 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.93 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 7, 17, 37, 77, ___",
+    "Type": "Elite Number Series",
+    "Answer": "157",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^4 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 14 cm, and 14 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "84.87 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 12) = 4",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^2 * (3/4)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 8, 26, 80, 242, ___",
+    "Type": "Elite Number Series",
+    "Answer": "728",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 22) = 5",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 9 cm, 11 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "48.81 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 7 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "16.25 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 7, 15, 31, 63, ___",
+    "Type": "Elite Number Series",
+    "Answer": "127",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 8) = 4",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 7 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "16.25 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 9 cm, 10 cm, and 5 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "22.45 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 19) = 8",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 14 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "67.71 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 60) = 10",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 13 cm, and 14 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "32.50 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 62) = 8",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 15 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.39 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 13 cm, and 15 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "31.56 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 52) = 8",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 7, 22, 67, 202, ___",
+    "Type": "Elite Number Series",
+    "Answer": "607",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 9, 21, 45, 93, ___",
+    "Type": "Elite Number Series",
+    "Answer": "189",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 22, 70, 214, 646, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1942",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 6 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "38.68 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 30, 93, 282, 849, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2550",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 17, 39, 83, 171, ___",
+    "Type": "Elite Number Series",
+    "Answer": "347",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 14, 32, 68, 140, ___",
+    "Type": "Elite Number Series",
+    "Answer": "284",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 60) = 8",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 10, 22, 46, 94, ___",
+    "Type": "Elite Number Series",
+    "Answer": "190",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x - 5) = 4",
+    "Type": "High Algebra",
+    "Answer": "7",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 19, 58, 175, 526, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1579",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 10 cm, 8 cm, and 12 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "39.69 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/4)^4 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 45) = 9",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 48) = 8",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^2 * (3/4)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 18) = 6",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 15, 35, 75, 155, ___",
+    "Type": "Elite Number Series",
+    "Answer": "315",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 16, 52, 160, 484, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1456",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 11, 27, 59, 123, ___",
+    "Type": "Elite Number Series",
+    "Answer": "251",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 41) = 7",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 11 cm, 12 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "55.32 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 97) = 10",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/4)^5 * (3/4)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 80) = 10",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 19, 61, 187, 565, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1699",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 9 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "44.04 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 14, 32, 68, 140, ___",
+    "Type": "Elite Number Series",
+    "Answer": "284",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 16, 49, 148, 445, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1336",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 11 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "31.42 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 22, 67, 202, 607, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1822",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 10 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "44.84 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 13 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "49.48 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 6 cm, 11 cm, and 8 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "23.42 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "5 * (1/3)^4 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 68) = 10",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 23, 71, 215, 647, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1943",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 21) = 6",
+    "Type": "High Algebra",
+    "Answer": "3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 20, 42, 86, 174, ___",
+    "Type": "Elite Number Series",
+    "Answer": "350",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 6 cm, 10 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "20.66 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 12 cm, and 5 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "26.53 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^2 * (2/3)^4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 12 cm, and 14 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "41.99 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 9 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.95 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 11, 38, 119, 362, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1091",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 8, 26, 80, 242, ___",
+    "Type": "Elite Number Series",
+    "Answer": "728",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 4) = 6",
+    "Type": "High Algebra",
+    "Answer": "8",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 22, 67, 202, 607, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1822",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 19) = 7",
+    "Type": "High Algebra",
+    "Answer": "10",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 18, 40, 84, 172, ___",
+    "Type": "Elite Number Series",
+    "Answer": "348",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 5 cm, 14 cm, and 12 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.23 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/4 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/4)^2 * (3/4)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 6 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "23.66 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 5 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^5 * (2/3)^1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 30) = 6",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 6 cm, 12 cm, and 10 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.93 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 9 cm, 13 cm, and 6 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "23.66 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 24, 75, 228, 687, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2064",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^2 * (2/3)^3",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 14 cm, 5 cm, and 11 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "24.49 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 9, 30, 93, 282, 849, ___",
+    "Type": "Elite Number Series",
+    "Answer": "2550",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 5, 11, 23, 47, 95, ___",
+    "Type": "Elite Number Series",
+    "Answer": "191",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 7 cm, and 13 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "41.57 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 19) = 8",
+    "Type": "High Algebra",
+    "Answer": "9",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 4 times, what is the probability of getting exactly 2 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "6 * (1/3)^2 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 8, 17, 35, 71, 143, ___",
+    "Type": "Elite Number Series",
+    "Answer": "287",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 5 times, what is the probability of getting exactly 3 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "10 * (1/3)^3 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 5 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "12",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 5 cm, and 14 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "29.23 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 7 cm, 15 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "20.69 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 7 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "240",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
+    "Type": "Elite Number Series",
+    "Answer": "159",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 9 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "10080",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 13 cm, 13 cm, and 7 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "43.82 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 92) = 10",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 6, 16, 36, 76, 156, ___",
+    "Type": "Elite Number Series",
+    "Answer": "316",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(5x + 44) = 7",
+    "Type": "High Algebra",
+    "Answer": "1",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "A biased coin has a probability of 1/3 of landing Heads. If tossed 6 times, what is the probability of getting exactly 4 Heads?",
+    "Type": "Elite Probability",
+    "Answer": "15 * (1/3)^4 * (2/3)^2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 15 cm, 15 cm, and 9 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "64.39 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 7, 23, 71, 215, 647, ___",
+    "Type": "Elite Number Series",
+    "Answer": "1943",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 9, 30, 93, 282, ___",
+    "Type": "Elite Number Series",
+    "Answer": "849",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(3x + 18) = 6",
+    "Type": "High Algebra",
+    "Answer": "6",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 8 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "1440",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the area of a triangle with sides 12 cm, 13 cm, and 6 cm using Heron's Formula.",
+    "Type": "Elite Geometry",
+    "Answer": "35.89 sq cm",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 4, 9, 19, 39, 79, ___",
+    "Type": "Elite Number Series",
+    "Answer": "159",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(4x + 92) = 10",
+    "Type": "High Algebra",
+    "Answer": "2",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Solve for x: sqrt(2x + 41) = 7",
+    "Type": "High Algebra",
+    "Answer": "4",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 2, 6, 14, 30, 62, ___",
+    "Type": "Elite Number Series",
+    "Answer": "126",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "In how many ways can 6 people be seated around a circular table such that 2 specific people always sit together?",
+    "Type": "Advanced Combinatorics",
+    "Answer": "48",
+    "Difficulty": "Expert"
+  },
+  {
+    "Question": "Find the next term in the series: 3, 10, 31, 94, 283, ___",
+    "Type": "Elite Number Series",
+    "Answer": "850",
     "Difficulty": "Expert"
   }
 ]
