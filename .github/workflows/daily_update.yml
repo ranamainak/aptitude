@@ -2,35 +2,35 @@ name: Generate Daily Math Content
 
 on:
   schedule:
-    - cron: '*/25 * * * *' # Runs every minutes in a day UTC
-  workflow_dispatch:      # Allows you to click a button to run it manually
-
-permissions:
-  contents: write         # Gives the robot permission to save the JSON files
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:       # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
-    - name: Checkout Code
-      uses: actions/checkout@v3
-      
-    - name: Setup Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-        
-    - name: Install Pandas
-      run: pip install pandas
-      
-    - name: Run Generators
-      run: python generate_daily.py
-      
-    - name: Commit New Questions
-      run: |
-        git config --global user.name 'MathBot'
-        git config --global user.email 'bot@noreply.github.com'
-        git add hard_questions.json expert_questions.json
-        git commit -m "Fresh Daily Content Generated" || echo "No changes to commit"
-        git push
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas
+
+      - name: Generate Questions
+        run: |
+          # --- FIX IS HERE: Use the correct filename ---
+          python generate_daily.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          # Only push if there are changes
+          git add hard_questions.json expert_questions.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update questions" && git push)
