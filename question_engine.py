@@ -1,409 +1,311 @@
 import random
 import math
-import fractions
+import datetime
 
 # ==========================================
-# PART 1: HARD GENERATOR (IIT/NEET Level)
-# Focus: Physics logic, Calculus basics, Advanced Arithmetic, Geometry
+# PART 1: HARD GENERATOR (General Aptitude)
+# Focus: Applied Math, Arithmetic, Logical Reasoning
 # ==========================================
 class HardGenerator:
 
-    # --- 1. PHYSICS & KINEMATICS ---
-    def gen_kinematics(self):
-        # Variety: v = u + at, s = ut + 0.5at^2, v^2 = u^2 + 2as
-        u = random.randint(0, 20)
-        a = random.randint(2, 10)
-        t = random.randint(5, 15)
+    # --- 1. BOATS & STREAMS ---
+    def gen_boats_streams(self):
+        boat = random.randint(12, 20)
+        stream = random.randint(2, 6)
+        dist = random.choice([24, 36, 48, 60, 72])
         
-        type_rng = random.choice(['velocity', 'distance'])
-        
-        if type_rng == 'velocity':
-            v = u + a * t
+        mode = random.choice(['upstream', 'downstream'])
+        if mode == 'upstream':
+            time = dist / (boat - stream)
             return {
-                "Question": f"A particle starts with velocity {u} m/s and accelerates at {a} m/s². Find its velocity after {t} seconds.",
-                "Answer": f"{v} m/s",
-                "Type": "Physics - Kinematics"
+                "Question": f"A boat rows {dist} km upstream against a current of {stream} km/hr. If the boat's speed in still water is {boat} km/hr, find the time taken.",
+                "Answer": f"{time:.2f} hours",
+                "Type": "Boats & Streams"
             }
         else:
-            s = u * t + 0.5 * a * (t**2)
+            time = dist / (boat + stream)
             return {
-                "Question": f"A car starts with initial speed {u} m/s and accelerates at {a} m/s² for {t} seconds. Calculate the distance covered.",
-                "Answer": f"{s} meters",
-                "Type": "Physics - Kinematics"
+                "Question": f"A boat speeds downstream for {dist} km. Boat speed is {boat} km/hr and river flows at {stream} km/hr. Find the time taken.",
+                "Answer": f"{time:.2f} hours",
+                "Type": "Boats & Streams"
             }
 
-    def gen_projectile_motion(self):
-        # Range R = (u^2 * sin(2*theta)) / g. Use g=10.
-        # We pick angles where sin(2theta) is nice: 15 (sin30=0.5), 45 (sin90=1), 30 (sin60=sqrt3/2)
-        angle_map = {15: 0.5, 45: 1.0} 
-        theta = random.choice(list(angle_map.keys()))
-        u = random.choice([10, 20, 30, 40])
-        g = 10
-        
-        sin_2theta = angle_map[theta]
-        range_val = (u**2 * sin_2theta) / g
-        
+    # --- 2. CLOCKS ---
+    def gen_clock_angle(self):
+        h, m = random.randint(1, 12), random.choice([10, 15, 20, 25, 30, 40, 50])
+        angle = abs((30 * h) - (5.5 * m))
+        angle = min(angle, 360 - angle)
         return {
-            "Question": f"A projectile is fired with speed {u} m/s at an angle of {theta}° to the horizontal. Find the horizontal range (g=10 m/s²).",
-            "Answer": f"{range_val} meters",
-            "Type": "Physics - Projectile"
+            "Question": f"Calculate the smaller angle between the two hands of a clock at {h}:{m}.",
+            "Answer": f"{angle} degrees",
+            "Type": "Clocks"
         }
 
-    # --- 2. ADVANCED ARITHMETIC ---
-    def gen_mixture_allegation(self):
-        # Cost of Cheap (C), Dear (D), Mean (M). Ratio (D-M) : (M-C)
-        c = random.randint(20, 50)
-        d = random.randint(60, 100)
-        m = random.randint(c + 5, d - 5)
-        
-        ratio_a = d - m
-        ratio_b = m - c
-        # Simplify ratio
-        common = math.gcd(ratio_a, ratio_b)
-        
+    # --- 3. CALENDARS ---
+    def gen_calendar_day(self):
+        base = datetime.date(2023, 1, 1) # Sunday
+        offset = random.randint(50, 2000)
+        target = base + datetime.timedelta(days=offset)
+        days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
         return {
-            "Question": f"In what ratio must rice at ${c}/kg be mixed with rice at ${d}/kg to get a mixture worth ${m}/kg?",
-            "Answer": f"{ratio_a//common}:{ratio_b//common}",
-            "Type": "Mixtures & Allegations"
+            "Question": f"If Jan 1, 2023 was a Sunday, what day of the week is {target.strftime('%b %d, %Y')}?",
+            "Answer": days[target.weekday()],
+            "Type": "Calendars"
         }
 
-    def gen_si_ci_difference(self):
-        # Diff = P(R/100)^2 for 2 years
-        P = random.choice([1000, 2000, 5000, 10000])
-        R = random.choice([5, 10, 20])
-        diff = P * (R/100)**2
-        
+    # --- 4. PIPES & CISTERNS ---
+    def gen_pipes_leak(self):
+        fill = random.choice([10, 12, 15])
+        leak = random.choice([20, 30, 60])
+        net = (fill * leak) / (leak - fill)
         return {
-            "Question": f"Find the difference between C.I. and S.I. on ${P} for 2 years at {R}% per annum.",
-            "Answer": f"${diff:.2f}",
-            "Type": "Compound Interest"
+            "Question": f"Pipe A fills a tank in {fill} hrs. A leak at the bottom empties it in {leak} hrs. If both are open, how long to fill the tank?",
+            "Answer": f"{net:.2f} hours",
+            "Type": "Pipes & Cisterns"
         }
 
-    def gen_time_work_efficiency(self):
-        # A is k times as good as B.
-        k = random.randint(2, 4)
-        b_days = random.randint(20, 60)
-        # A takes b_days / k
-        # Together: 1/A + 1/B
-        a_days = b_days / k
-        together = (a_days * b_days) / (a_days + b_days)
-        
+    # --- 5. RACES ---
+    def gen_race_logic(self):
+        track = random.choice([100, 200, 400])
+        v1 = random.randint(8, 12)
+        v2 = v1 - random.randint(1, 2)
+        # Time for winner
+        t = track / v1
+        # Distance loser runs
+        d2 = v2 * t
+        beat = track - d2
         return {
-            "Question": f"A is {k} times as efficient as B. If B can complete a task in {b_days} days, how many days will they take working together?",
-            "Answer": f"{together:.2f} days",
-            "Type": "Time & Work"
+            "Question": f"In a {track}m race, A runs at {v1} m/s and B at {v2} m/s. By what distance does A beat B?",
+            "Answer": f"{beat:.1f} meters",
+            "Type": "Races"
         }
 
-    # --- 3. ALGEBRA & PROGRESSIONS ---
-    def gen_quadratic_roots(self):
-        # Roots alpha, beta. Eq: x^2 - (a+b)x + ab = 0
-        r1 = random.randint(2, 10)
-        r2 = random.randint(2, 10)
-        sum_r = r1 + r2
-        prod_r = r1 * r2
-        
+    # --- 6. PROFIT & LOSS (Dishonest Dealer) ---
+    def gen_dishonest_dealer(self):
+        false_w = random.choice([800, 900, 950])
+        profit = ((1000 - false_w) / false_w) * 100
         return {
-            "Question": f"Find the quadratic equation whose roots are {r1} and {r2}.",
-            "Answer": f"x² - {sum_r}x + {prod_r} = 0",
-            "Type": "Algebra - Quadratics"
-        }
-        
-    def gen_ap_sum(self):
-        # Sum of n terms = n/2 [2a + (n-1)d]
-        a = random.randint(1, 10)
-        d = random.randint(2, 5)
-        n = random.randint(10, 20)
-        
-        total = (n / 2) * (2 * a + (n - 1) * d)
-        
-        return {
-            "Question": f"Find the sum of the first {n} terms of the A.P.: {a}, {a+d}, {a+2*d}, ...",
-            "Answer": str(int(total)),
-            "Type": "Progressions (AP)"
+            "Question": f"A dishonest dealer professes to sell goods at CP but uses {false_w}g weight for 1kg. Find gain %.",
+            "Answer": f"{profit:.2f}%",
+            "Type": "Profit & Loss"
         }
 
-    # --- 4. GEOMETRY & MENSURATION ---
-    def gen_circle_tangent(self):
-        # Right triangle formed by Radius, Tangent, and Hypotenuse (center to point)
-        r = random.randint(5, 12)
-        dist = random.randint(r+1, r+10)
-        tangent_len = math.sqrt(dist**2 - r**2)
-        
+    # --- 7. MENSURATION (Melting) ---
+    def gen_melting_cubes(self):
+        c1, c2, c3 = random.randint(3,5), random.randint(6,8), random.randint(8,10)
+        vol = c1**3 + c2**3 + c3**3
         return {
-            "Question": f"A point P is {dist} cm from the center of a circle of radius {r} cm. Find the length of the tangent drawn from P to the circle.",
-            "Answer": f"{tangent_len:.2f} cm",
-            "Type": "Geometry - Circles"
-        }
-
-    def gen_cone_volume(self):
-        r = random.randint(3, 10)
-        h = random.randint(5, 15)
-        vol = (1/3) * math.pi * (r**2) * h
-        
-        return {
-            "Question": f"Find the volume of a cone with radius {r} cm and height {h} cm.",
-            "Answer": f"{vol:.2f} cm³",
+            "Question": f"Three metal cubes with edges {c1}, {c2}, {c3} cm are melted to form a single cube. What is the volume of the new cube?",
+            "Answer": f"{vol} cm³",
             "Type": "Mensuration"
         }
 
-    # --- 5. PERMUTATION & PROBABILITY ---
-    def gen_dice_sum(self):
-        # Prob sum of 2 dice is X
-        target = random.choice([7, 8, 9, 10, 11, 12])
-        # Combinations count
-        combinations = 0
-        for i in range(1, 7):
-            if 1 <= target - i <= 6:
-                combinations += 1
-                
+    # --- 8. PARTNERSHIP (Investments) --- (NEW)
+    def gen_partnership(self):
+        invA = random.randint(2, 5) * 1000
+        invB = random.randint(6, 9) * 1000
+        timeA = 12
+        timeB = random.choice([6, 8, 9])
+        # Ratio A:B
+        ratioA = invA * timeA
+        ratioB = invB * timeB
+        common = math.gcd(ratioA, ratioB)
         return {
-            "Question": f"Two dice are rolled. What is the probability that the sum of the numbers is {target}?",
-            "Answer": f"{combinations}/36",
-            "Type": "Probability"
+            "Question": f"A invests ${invA} for 12 months and B invests ${invB} for {timeB} months. Find the ratio of their profit shares.",
+            "Answer": f"{ratioA//common} : {ratioB//common}",
+            "Type": "Partnership"
         }
 
-    def gen_word_rank(self):
-        # Rank of word in dictionary (Simple ones like CAT, TOY)
-        word = random.choice(["CAT", "DOG", "ZEN", "PEN"])
-        # Logic is hard to randomize simply, so we ask for arrangements
-        l = len(word)
-        fact = math.factorial(l)
-        
+    # --- 9. AVERAGES (Replacement) --- (NEW)
+    def gen_avg_replacement(self):
+        n = random.choice([10, 20, 25])
+        inc = random.choice([1, 1.5, 2])
+        replaced_weight = random.randint(40, 60)
+        # New weight = Old + (n * inc)
+        new_weight = replaced_weight + (n * inc)
         return {
-            "Question": f"How many different words can be formed by arranging the letters of '{word}'?",
-            "Answer": str(fact),
-            "Type": "Permutations"
-        }
-    
-    # --- 6. TRIGONOMETRY ---
-    def gen_height_distance(self):
-        # tan(theta) = h / base
-        angle = random.choice([30, 45, 60])
-        base = random.randint(10, 50)
-        
-        # tan values
-        tan_map = {30: "1/√3", 45: "1", 60: "√3"}
-        
-        return {
-            "Question": f"The angle of elevation of the top of a tower from a point {base}m away from its foot is {angle}°. Find the height of the tower.",
-            "Answer": f"{base} * {tan_map[angle]} meters",
-            "Type": "Trigonometry"
+            "Question": f"The average weight of {n} persons increases by {inc} kg when a person weighing {replaced_weight} kg is replaced by a new person. What is the weight of the new person?",
+            "Answer": f"{new_weight} kg",
+            "Type": "Averages"
         }
 
-    # ... Add 38 more logic variations here (Simulated by the generate_batch randomizer) ...
-    # For brevity, the generate_batch below repeats these with random params to create variety.
+    # --- 10. LCM (Bells/Traffic Lights) --- (NEW)
+    def gen_lcm_bells(self):
+        t1, t2, t3 = random.choice([2,3]), random.choice([4,5]), random.choice([6,8])
+        lcm_val = math.lcm(t1, math.lcm(t2, t3))
+        return {
+            "Question": f"Three bells toll at intervals of {t1}, {t2}, and {t3} seconds respectively. If they toll together now, after how many seconds will they toll together again?",
+            "Answer": f"{lcm_val} seconds",
+            "Type": "LCM Word Problem"
+        }
+
+    # --- 11. CUBES (Cutting/Painting) --- (NEW)
+    def gen_cube_cutting(self):
+        cuts = random.choice([2, 3, 4]) # Cuts per axis
+        parts = cuts + 1 # n
+        # Logic: Cubes with 3 faces painted = always 8 (corners)
+        # Cubes with 2 faces = 12 * (n-2)
+        ans = 12 * (parts - 2)
+        return {
+            "Question": f"A cube is painted red on all sides and cut into {parts**3} smaller identical cubes. How many small cubes have exactly 2 faces painted?",
+            "Answer": str(ans),
+            "Type": "Cubes & Dice"
+        }
 
     def generate_batch(self, count=50):
-        # List of all generator methods
         methods = [
-            self.gen_kinematics, self.gen_projectile_motion,
-            self.gen_mixture_allegation, self.gen_si_ci_difference, self.gen_time_work_efficiency,
-            self.gen_quadratic_roots, self.gen_ap_sum,
-            self.gen_circle_tangent, self.gen_cone_volume,
-            self.gen_dice_sum, self.gen_word_rank,
-            self.gen_height_distance
+            self.gen_boats_streams, self.gen_clock_angle, self.gen_calendar_day,
+            self.gen_pipes_leak, self.gen_race_logic, self.gen_dishonest_dealer,
+            self.gen_melting_cubes, self.gen_partnership, self.gen_avg_replacement,
+            self.gen_lcm_bells, self.gen_cube_cutting
         ]
-        
         questions = []
         for _ in range(count):
             func = random.choice(methods)
             q = func()
-            q['Difficulty'] = "Hard (IIT/NEET)"
+            q['Difficulty'] = "Hard"
             questions.append(q)
         return questions
 
 
 # ==========================================
-# PART 2: EXPERT GENERATOR (Beyond IIT/Olympiad)
-# Focus: Number Theory, Complex P&C, Vector Algebra, Logarithms
+# PART 2: EXPERT GENERATOR (Abstract Logic)
+# Focus: Combinatorics, Number Theory, Advanced Logic
 # ==========================================
 class ExpertGenerator:
 
-    # --- 1. NUMBER THEORY ---
-    def gen_trailing_zeros(self):
-        # Number of zeros in n! = floor(n/5) + floor(n/25) + ...
-        n = random.randint(50, 200)
-        count = 0
-        i = 5
-        while (n / i >= 1):
-            count += int(n / i)
-            i *= 5
-            
+    # --- 1. BASE CONVERSION ---
+    def gen_base_conversion(self):
+        dec = random.randint(50, 200)
+        ans = bin(dec)[2:]
         return {
-            "Question": f"Find the number of trailing zeros in {n}!.",
-            "Answer": str(count),
+            "Question": f"Convert the decimal number {dec} to Binary.",
+            "Answer": ans,
+            "Type": "Number Systems"
+        }
+
+    # --- 2. UNIT DIGIT ---
+    def gen_unit_digit(self):
+        base = random.randint(12, 58)
+        exp = random.randint(20, 150)
+        last = base % 10
+        # Simple cycle logic for generator
+        res = pow(last, exp, 10)
+        return {
+            "Question": f"Find the unit digit of {base}^{exp}.",
+            "Answer": str(res),
             "Type": "Number Theory"
         }
 
-    def gen_remainder_theorem(self):
-        # Find remainder of a^b divided by m
-        # Use Fermat's Little Theorem: a^(p-1) = 1 mod p
-        p = random.choice([7, 11, 13, 17]) # Prime
-        a = random.randint(2, p-1)
-        b = random.randint(20, 100)
-        
-        # Remainder logic
-        # b = k*(p-1) + rem
-        power_rem = b % (p - 1)
-        final_rem = (a ** power_rem) % p
-        
+    # --- 3. PIGEONHOLE PRINCIPLE ---
+    def gen_pigeonhole(self):
+        colors = random.randint(3, 6)
         return {
-            "Question": f"Find the remainder when {a}^{b} is divided by {p}.",
-            "Answer": str(final_rem),
-            "Type": "Number Theory - Modular Arith"
+            "Question": f"A drawer has socks of {colors} different colors. Minimum picks to ensure a matching pair?",
+            "Answer": str(colors + 1),
+            "Type": "Logical Deduction"
         }
 
-    def gen_lcm_hcf_fractions(self):
-        # HCF of fractions = HCF(num)/LCM(den)
-        n1, d1 = random.randint(2, 5), random.randint(6, 10)
-        n2, d2 = random.randint(2, 5), random.randint(6, 10)
-        
-        num_hcf = math.gcd(n1, n2)
-        den_lcm = math.lcm(d1, d2)
-        
+    # --- 4. VENN DIAGRAMS ---
+    def gen_venn_3set(self):
+        nA, nB, nBoth = random.randint(20, 30), random.randint(20, 30), random.randint(5, 10)
         return {
-            "Question": f"Find the HCF of the fractions {n1}/{d1} and {n2}/{d2}.",
-            "Answer": f"{num_hcf}/{den_lcm}",
+            "Question": f"In a group, {nA} like Tea, {nB} like Coffee, {nBoth} like both. How many like at least one?",
+            "Answer": str(nA + nB - nBoth),
+            "Type": "Set Theory"
+        }
+
+    # --- 5. DATA SUFFICIENCY ---
+    def gen_data_sufficiency(self):
+        return {
+            "Question": "Is X > Y?\nI: X + Y = 10\nII: X - Y = 2",
+            "Answer": "Both I and II together are sufficient",
+            "Type": "Data Sufficiency"
+        }
+
+    # --- 6. CRYPTARITHMETIC ---
+    def gen_cryptarithmetic(self):
+        return {
+            "Question": "If A is a digit and 1A * A = 9A, find A.",
+            "Answer": "6", # 16 * 6 = 96
+            "Type": "Cryptarithmetic"
+        }
+
+    # --- 7. ADVANCED SERIES ---
+    def gen_fibonacci_var(self):
+        a, b = random.randint(1,3), random.randint(1,3)
+        seq = [a, b]
+        for _ in range(5): seq.append(seq[-1] + seq[-2])
+        return {
+            "Question": f"Find the next term: {seq[:-1]} ...",
+            "Answer": str(seq[-1]),
+            "Type": "Series"
+        }
+
+    # --- 8. SYLLOGISMS ---
+    def gen_syllogism(self):
+        item = random.choice(["Cars", "Pens", "Boxes"])
+        return {
+            "Question": f"Statements: All {item} are Blue. Some Blue are Heavy.\nConclusion: Some {item} are Heavy. (True/False/Uncertain?)",
+            "Answer": "Uncertain",
+            "Type": "Syllogism"
+        }
+
+    # --- 9. REMAINDERS (Power Cycle) --- (NEW)
+    def gen_remainders(self):
+        # Find remainder of 2^50 / 7
+        # 2^3 = 8 = 1 mod 7.
+        # 50 = 16*3 + 2
+        # Rem = (2^3)^16 * 2^2 = 1 * 4 = 4
+        base = 2
+        div = 7
+        power = random.choice([50, 52, 100])
+        ans = pow(base, power, div)
+        return {
+            "Question": f"Find the remainder when {base}^{power} is divided by {div}.",
+            "Answer": str(ans),
             "Type": "Number Theory"
         }
 
-    # --- 2. ADVANCED ALGEBRA ---
-    def gen_log_equation(self):
-        # log_a(x) + log_a(y) = z => xy = a^z
-        base = random.randint(2, 5)
-        x = random.randint(2, 8)
-        y = random.randint(2, 8)
-        val = math.log(x*y, base)
+    # --- 10. PROBABILITY (At Least One) --- (NEW)
+    def gen_prob_atleast(self):
+        # Prob of hitting target is p. n shots. Prob of at least one hit?
+        # 1 - (failure)^n
+        p_num = 1
+        p_den = random.choice([3, 4]) # 1/3 or 1/4 hit rate
+        n = random.choice([2, 3])
         
-        # We ensure integer capability usually, but for expert we leave it as an equation
-        target = x * y
+        fail_prob = (p_den - p_num) / p_den
+        none_hit = fail_prob ** n
+        ans = 1 - none_hit
         
         return {
-            "Question": f"If log_{base}(x) + log_{base}({y}) = log_{base}({target}), find x.",
-            "Answer": str(x),
-            "Type": "Logarithms"
+            "Question": f"A shooter has a 1/{p_den} chance to hit. If he fires {n} shots, what is the probability he hits at least once?",
+            "Answer": f"{ans:.4f}",
+            "Type": "Probability"
         }
 
-    def gen_gp_sum_infinite(self):
-        # Sum = a / (1-r)
-        a = random.randint(2, 10)
-        # r must be < 1, e.g., 1/2, 1/3
-        den = random.randint(2, 5)
-        r_str = f"1/{den}"
-        
-        total = a / (1 - (1/den))
-        
+    # --- 11. TRUTH TELLERS (Logic) --- (NEW)
+    def gen_truth_liar(self):
+        # Classic logic puzzle variation
         return {
-            "Question": f"Find the sum of the infinite G.P.: {a}, {a}/{den}, {a}/{den**2}...",
-            "Answer": f"{total:.2f}",
-            "Type": "Progressions (GP)"
-        }
-
-    # --- 3. ADVANCED COMBINATORICS ---
-    def gen_derangements(self):
-        # D_n = n! (1 - 1/1! + 1/2! - ... )
-        # D_3=2, D_4=9, D_5=44
-        n_map = {3: 2, 4: 9, 5: 44}
-        n = random.choice([3, 4, 5])
-        
-        return {
-            "Question": f"There are {n} letters and {n} corresponding addressed envelopes. In how many ways can they be placed such that NO letter goes into the correct envelope?",
-            "Answer": str(n_map[n]),
-            "Type": "Combinatorics - Derangements"
-        }
-
-    def gen_stars_and_bars(self):
-        # Non-negative solutions to x1 + x2 + ... + xr = n
-        # Formula: (n + r - 1) C (r - 1)
-        n = random.randint(5, 10)
-        r = 3
-        
-        ans = math.comb(n + r - 1, r - 1)
-        
-        return {
-            "Question": f"Find the number of non-negative integral solutions to x + y + z = {n}.",
-            "Answer": str(ans),
-            "Type": "Combinatorics - Stars & Bars"
-        }
-
-    def gen_handshakes(self):
-        # nC2
-        n = random.randint(10, 50)
-        ans = math.comb(n, 2)
-        
-        return {
-            "Question": f"In a party of {n} people, everyone shakes hands with everyone else exactly once. Find the total number of handshakes.",
-            "Answer": str(ans),
-            "Type": "Combinatorics"
-        }
-
-    # --- 4. ADVANCED PROBABILITY ---
-    def gen_expected_value(self):
-        # E[X] = sum(x * p(x))
-        win_amt = random.randint(10, 100)
-        loss_amt = random.randint(5, 20)
-        # Coin toss: Head wins, Tail loses
-        ev = 0.5 * win_amt - 0.5 * loss_amt
-        
-        return {
-            "Question": f"A game involves tossing a coin. If Head, you win ${win_amt}. If Tail, you lose ${loss_amt}. What is the expected value of the game?",
-            "Answer": f"${ev:.2f}",
-            "Type": "Probability - Expectation"
-        }
-
-    def gen_bayes_logic(self):
-        # Conceptual question
-        return {
-            "Question": "If P(A|B) = 0.8, P(B) = 0.1, and P(A) = 0.2, find P(B|A) using Bayes Theorem.",
-            "Answer": "0.4", # (0.8 * 0.1) / 0.2
-            "Type": "Probability - Bayes"
-        }
-
-    # --- 5. VECTORS & MATRICES ---
-    def gen_vector_dot(self):
-        # a.b = |a||b|cos(theta)
-        # vectors i + j and i - j
-        return {
-            "Question": "Find the angle between vectors A = i + j and B = i - j.",
-            "Answer": "90 degrees",
-            "Type": "Vector Algebra"
-        }
-
-    def gen_determinant(self):
-        a, b, c, d = [random.randint(1, 10) for _ in range(4)]
-        det = a*d - b*c
-        return {
-            "Question": f"Find the determinant of the 2x2 matrix: [[{a}, {b}], [{c}, {d}]].",
-            "Answer": str(det),
-            "Type": "Matrices"
-        }
-    
-    # --- 6. GEOMETRY & COORDINATES ---
-    def gen_coord_geometry_area(self):
-        # Area of triangle with vertices (0,0), (a,0), (0,b) => 0.5*a*b
-        a = random.randint(5, 15)
-        b = random.randint(5, 15)
-        area = 0.5 * a * b
-        return {
-            "Question": f"Find the area of the triangle formed by vertices (0,0), ({a},0), and (0,{b}).",
-            "Answer": str(area),
-            "Type": "Coordinate Geometry"
+            "Question": "A says 'I am a liar'. Is A a Truth-teller or a Liar? (Assuming Liars always lie)",
+            "Answer": "Impossible (Paradox)",
+            "Type": "Logical Paradox"
         }
 
     def generate_batch(self, count=50):
         methods = [
-            self.gen_trailing_zeros, self.gen_remainder_theorem, self.gen_lcm_hcf_fractions,
-            self.gen_log_equation, self.gen_gp_sum_infinite,
-            self.gen_derangements, self.gen_stars_and_bars, self.gen_handshakes,
-            self.gen_expected_value, self.gen_bayes_logic,
-            self.gen_vector_dot, self.gen_determinant, self.gen_coord_geometry_area
+            self.gen_base_conversion, self.gen_unit_digit, self.gen_pigeonhole,
+            self.gen_venn_3set, self.gen_data_sufficiency, self.gen_cryptarithmetic,
+            self.gen_fibonacci_var, self.gen_syllogism, self.gen_remainders,
+            self.gen_prob_atleast, self.gen_truth_liar
         ]
-        
         questions = []
         for _ in range(count):
             func = random.choice(methods)
             q = func()
-            q['Difficulty'] = "Expert (Olympiad)"
+            q['Difficulty'] = "Expert"
             questions.append(q)
         return questions
 
@@ -412,10 +314,16 @@ if __name__ == "__main__":
     h_gen = HardGenerator()
     e_gen = ExpertGenerator()
     
-    print("--- 5 HARD SAMPLES ---")
+    # 
+
+[Image of Venn Diagram Logic]
+
+    # 
+    
+    print("--- HARD SAMPLES ---")
     for q in h_gen.generate_batch(5):
         print(q)
         
-    print("\n--- 5 EXPERT SAMPLES ---")
+    print("\n--- EXPERT SAMPLES ---")
     for q in e_gen.generate_batch(5):
         print(q)
