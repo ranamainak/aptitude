@@ -2,7 +2,7 @@ name: Generate Daily Math Content
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Runs every minutes in a day UTC
+    - cron: '*/25 * * * *' # Runs every minutes in a day UTC
   workflow_dispatch:      # Allows you to click a button to run it manually
 
 permissions:
