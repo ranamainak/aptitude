@@ -155,4 +155,41 @@ class ExpertGenerator:
             "Type": "Number Theory"
         }
 
-    def generate_batch(self
+    def generate_batch(self, count=50):
+        methods = [
+            self.gen_base_conversion, self.gen_unit_digit, 
+            self.gen_pigeonhole, self.gen_venn_3set, 
+            self.gen_prob_atleast, self.gen_remainders
+        ]
+        questions = []
+        for _ in range(count):
+            func = random.choice(methods)
+            q = func()
+            q['Difficulty'] = "Expert"
+            questions.append(q)
+        return questions
+
+# ==========================================
+# PART 3: MAIN EXECUTION
+# ==========================================
+def save_to_json(data, filename):
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=4, ensure_ascii=False)
+    print(f"✅ Generated {len(data)} questions in {filename}")
+
+if __name__ == "__main__":
+    print("--- Starting Daily Question Generation ---")
+    
+    # Generate Hard
+    try:
+        hard_data = HardGenerator().generate_batch(50)
+        save_to_json(hard_data, 'hard_questions.json')
+    except Exception as e:
+        print(f"❌ Error generating Hard: {e}")
+
+    # Generate Expert
+    try:
+        expert_data = ExpertGenerator().generate_batch(50)
+        save_to_json(expert_data, 'expert_questions.json')
+    except Exception as e:
+        print(f"❌ Error generating Expert: {e}")
