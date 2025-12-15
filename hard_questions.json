@@ -1,746 +1,14 @@
 [
   {
-    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 19 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "285 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 24 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "240 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 12, 26, 46, 72, 104, ___",
-    "Type": "Number Series",
-    "Answer": "142",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 14 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "210 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 23, 39, 61, 89, ___",
-    "Type": "Number Series",
-    "Answer": "123",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 27, 47, 73, 105, ___",
-    "Type": "Number Series",
-    "Answer": "143",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "375 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 16, 29, 46, 67, ___",
-    "Type": "Number Series",
-    "Answer": "92",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "210 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 25 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "625 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "270 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 10 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "100 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 5, 12, 23, 38, 57, ___",
-    "Type": "Number Series",
-    "Answer": "80",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 14 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "280 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 14 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "280 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 12 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "300 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 17, 30, 49, 74, 105, ___",
-    "Type": "Number Series",
-    "Answer": "142",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "300 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
-    "Type": "Number Series",
-    "Answer": "112",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/15",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/15",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 6, 16, 32, 54, 82, ___",
-    "Type": "Number Series",
-    "Answer": "116",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 19, 29, 41, 55, ___",
-    "Type": "Number Series",
-    "Answer": "71",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 20, 34, 52, 74, ___",
-    "Type": "Number Series",
-    "Answer": "100",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 29 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "290 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
     "Question": "Find the next term: 12, 20, 32, 48, 68, ___",
     "Type": "Number Series",
     "Answer": "92",
     "Difficulty": "Hard"
   },
   {
-    "Question": "Find the next term: 12, 20, 30, 42, 56, ___",
-    "Type": "Number Series",
-    "Answer": "72",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
-    "Type": "Number Series",
-    "Answer": "112",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 20, 36, 58, 86, ___",
-    "Type": "Number Series",
-    "Answer": "120",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 20, 28, 38, 50, ___",
-    "Type": "Number Series",
-    "Answer": "64",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 14, 21, 30, 41, ___",
-    "Type": "Number Series",
-    "Answer": "54",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 17, 27, 39, 53, ___",
-    "Type": "Number Series",
-    "Answer": "69",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
     "Type": "Time & Work",
     "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "275 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 27, 45, 69, 99, ___",
-    "Type": "Number Series",
-    "Answer": "135",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 13 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "260 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 10 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "150 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 14, 22, 32, 44, ___",
-    "Type": "Number Series",
-    "Answer": "58",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 16, 23, 32, 43, ___",
-    "Type": "Number Series",
-    "Answer": "56",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 14, 22, 32, 44, ___",
-    "Type": "Number Series",
-    "Answer": "58",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 22, 31, 42, 55, ___",
-    "Type": "Number Series",
-    "Answer": "70",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/16",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 22 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "550 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
-    "Type": "Number Series",
-    "Answer": "112",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 22, 39, 62, 91, ___",
-    "Type": "Number Series",
-    "Answer": "126",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 20, 38, 62, 92, ___",
-    "Type": "Number Series",
-    "Answer": "128",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 5, 9, 15, 23, 33, ___",
-    "Type": "Number Series",
-    "Answer": "45",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 13 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "195 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "225 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 18, 31, 48, 69, ___",
-    "Type": "Number Series",
-    "Answer": "94",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 25, 40, 59, 82, ___",
-    "Type": "Number Series",
-    "Answer": "109",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 23, 33, 45, 59, ___",
-    "Type": "Number Series",
-    "Answer": "75",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "180 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 28 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "560 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 20 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "500 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/6",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 30 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "450 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 22 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "440 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 22 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "440 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 26, 45, 70, 101, ___",
-    "Type": "Number Series",
-    "Answer": "138",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 23, 33, 45, 59, ___",
-    "Type": "Number Series",
-    "Answer": "75",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 25 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "500 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 24, 37, 54, 75, ___",
-    "Type": "Number Series",
-    "Answer": "100",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 25, 42, 65, 94, ___",
-    "Type": "Number Series",
-    "Answer": "129",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 17 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "425 meters",
     "Difficulty": "Hard"
   },
   {
@@ -750,2013 +18,9 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A bag contains 3 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 16 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "240 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 16, 23, 32, 43, ___",
-    "Type": "Number Series",
-    "Answer": "56",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 21, 36, 55, 78, ___",
-    "Type": "Number Series",
-    "Answer": "105",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 15, 24, 35, 48, ___",
-    "Type": "Number Series",
-    "Answer": "63",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 24 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "480 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 12 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "120 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 14 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "350 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 28, 48, 74, 106, ___",
-    "Type": "Number Series",
-    "Answer": "144",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 25, 43, 67, 97, ___",
-    "Type": "Number Series",
-    "Answer": "133",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/15",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 16, 27, 42, 61, ___",
-    "Type": "Number Series",
-    "Answer": "84",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 5, 15, 31, 53, 81, ___",
-    "Type": "Number Series",
-    "Answer": "115",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 24 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "480 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 28 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "560 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 25 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "625 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 20, 34, 52, 74, ___",
-    "Type": "Number Series",
-    "Answer": "100",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 30 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "300 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 22, 31, 42, 55, ___",
-    "Type": "Number Series",
-    "Answer": "70",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 6, 17, 34, 57, 86, ___",
-    "Type": "Number Series",
-    "Answer": "121",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 30 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "600 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 13, 21, 31, 43, ___",
-    "Type": "Number Series",
-    "Answer": "57",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 19, 31, 47, 67, ___",
-    "Type": "Number Series",
-    "Answer": "91",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 16, 26, 38, 52, ___",
-    "Type": "Number Series",
-    "Answer": "68",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 22, 34, 50, 70, ___",
-    "Type": "Number Series",
-    "Answer": "94",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 18 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "180 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 13, 20, 29, 40, ___",
-    "Type": "Number Series",
-    "Answer": "53",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 19, 34, 53, 76, ___",
-    "Type": "Number Series",
-    "Answer": "103",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 12, 19, 28, 39, ___",
-    "Type": "Number Series",
-    "Answer": "52",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 4, 8, 14, 22, 32, ___",
-    "Type": "Number Series",
-    "Answer": "44",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "110 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 23, 43, 69, 101, ___",
-    "Type": "Number Series",
-    "Answer": "139",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 22, 37, 56, 79, ___",
-    "Type": "Number Series",
-    "Answer": "106",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "180 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 13, 20, 29, 40, ___",
-    "Type": "Number Series",
-    "Answer": "53",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 24 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "360 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 15, 25, 37, 51, ___",
-    "Type": "Number Series",
-    "Answer": "67",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "250 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 22, 37, 56, 79, ___",
-    "Type": "Number Series",
-    "Answer": "106",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 22, 34, 50, 70, ___",
-    "Type": "Number Series",
-    "Answer": "94",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 26, 44, 68, 98, ___",
-    "Type": "Number Series",
-    "Answer": "134",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 23, 39, 61, 89, ___",
-    "Type": "Number Series",
-    "Answer": "123",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "210 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 3, 7, 13, 21, 31, ___",
-    "Type": "Number Series",
-    "Answer": "43",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 20, 36, 58, 86, ___",
-    "Type": "Number Series",
-    "Answer": "120",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 23, 42, 67, 98, ___",
-    "Type": "Number Series",
-    "Answer": "135",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 20, 33, 50, 71, ___",
-    "Type": "Number Series",
-    "Answer": "96",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 23, 37, 55, 77, ___",
-    "Type": "Number Series",
-    "Answer": "103",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 16, 25, 36, 49, ___",
-    "Type": "Number Series",
-    "Answer": "64",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 23, 41, 65, 95, ___",
-    "Type": "Number Series",
-    "Answer": "131",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 19 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "380 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 26 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "260 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 20 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "400 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 18 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "360 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 22 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "440 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 14, 23, 34, 47, ___",
-    "Type": "Number Series",
-    "Answer": "62",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 28 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "280 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 23, 33, 45, 59, ___",
-    "Type": "Number Series",
-    "Answer": "75",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 14, 20, 28, 38, ___",
-    "Type": "Number Series",
-    "Answer": "50",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 29 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "290 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 24, 41, 64, 93, ___",
-    "Type": "Number Series",
-    "Answer": "128",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 12, 21, 34, 51, 72, ___",
-    "Type": "Number Series",
-    "Answer": "97",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 12, 24, 42, 66, 96, ___",
-    "Type": "Number Series",
-    "Answer": "132",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 25 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "250 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 20, 36, 58, 86, ___",
-    "Type": "Number Series",
-    "Answer": "120",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 12, 23, 38, 57, 80, ___",
-    "Type": "Number Series",
-    "Answer": "107",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 16, 23, 32, 43, ___",
-    "Type": "Number Series",
-    "Answer": "56",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 18, 31, 48, 69, ___",
-    "Type": "Number Series",
-    "Answer": "94",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 26 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "390 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "270 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "540 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "405 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 17 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "255 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "150 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 21, 38, 61, 90, ___",
-    "Type": "Number Series",
-    "Answer": "125",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "405 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 14 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "280 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 17, 26, 37, 50, ___",
-    "Type": "Number Series",
-    "Answer": "65",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/6",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 24, 40, 62, 90, ___",
-    "Type": "Number Series",
-    "Answer": "124",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 29, 49, 75, 107, ___",
-    "Type": "Number Series",
-    "Answer": "145",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 14, 25, 40, 59, ___",
-    "Type": "Number Series",
-    "Answer": "82",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 20, 35, 54, 77, ___",
-    "Type": "Number Series",
-    "Answer": "104",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/15",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 24, 39, 58, 81, ___",
-    "Type": "Number Series",
-    "Answer": "108",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 4, 8, 14, 22, 32, ___",
-    "Type": "Number Series",
-    "Answer": "44",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 27, 47, 73, 105, ___",
-    "Type": "Number Series",
-    "Answer": "143",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 27, 45, 69, 99, ___",
-    "Type": "Number Series",
-    "Answer": "135",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "150 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 21, 39, 63, 93, ___",
-    "Type": "Number Series",
-    "Answer": "129",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 20, 28, 38, 50, ___",
-    "Type": "Number Series",
-    "Answer": "64",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 5, 13, 25, 41, 61, ___",
-    "Type": "Number Series",
-    "Answer": "85",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 15, 25, 37, 51, ___",
-    "Type": "Number Series",
-    "Answer": "67",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 16, 27, 42, 61, 84, ___",
-    "Type": "Number Series",
-    "Answer": "111",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 21, 33, 49, 69, ___",
-    "Type": "Number Series",
-    "Answer": "93",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "12.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 18 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "360 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 13, 19, 27, 37, ___",
-    "Type": "Number Series",
-    "Answer": "49",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 19, 34, 53, 76, ___",
-    "Type": "Number Series",
-    "Answer": "103",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 21, 30, 41, 54, ___",
-    "Type": "Number Series",
-    "Answer": "69",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "525 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 17 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "170 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 17 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "340 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 16, 27, 42, 61, ___",
-    "Type": "Number Series",
-    "Answer": "84",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "210 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 16 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "160 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "225 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 27, 46, 71, 102, ___",
-    "Type": "Number Series",
-    "Answer": "139",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 20 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "400 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 19, 36, 59, 88, ___",
-    "Type": "Number Series",
-    "Answer": "123",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 4, 9, 16, 25, 36, ___",
-    "Type": "Number Series",
-    "Answer": "49",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 10 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "200 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 26, 45, 70, 101, ___",
-    "Type": "Number Series",
-    "Answer": "138",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 10, 21, 36, 55, 78, ___",
-    "Type": "Number Series",
-    "Answer": "105",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 20 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "400 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "405 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 21, 30, 41, 54, ___",
-    "Type": "Number Series",
-    "Answer": "69",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 20, 28, 38, 50, ___",
-    "Type": "Number Series",
-    "Answer": "64",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 30 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "750 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 12, 23, 40, 63, 92, ___",
+    "Question": "Find the next term: 7, 19, 37, 61, 91, ___",
     "Type": "Number Series",
     "Answer": "127",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 16 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "160 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/15",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 6, 13, 22, 33, 46, ___",
-    "Type": "Number Series",
-    "Answer": "61",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 18, 32, 52, 78, 110, ___",
-    "Type": "Number Series",
-    "Answer": "148",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 28 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "560 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 27, 47, 73, 105, ___",
-    "Type": "Number Series",
-    "Answer": "143",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
-    "Type": "Number Series",
-    "Answer": "112",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 22, 37, 56, 79, ___",
-    "Type": "Number Series",
-    "Answer": "106",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 25 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "375 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 23, 39, 61, 89, ___",
-    "Type": "Number Series",
-    "Answer": "123",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 17 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "340 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "165 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 29 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "290 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 17, 29, 45, 65, ___",
-    "Type": "Number Series",
-    "Answer": "89",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 16, 28, 44, 64, ___",
-    "Type": "Number Series",
-    "Answer": "88",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 6 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 17, 29, 45, 65, ___",
-    "Type": "Number Series",
-    "Answer": "89",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "180 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "420 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 7, 13, 21, 31, 43, ___",
-    "Type": "Number Series",
-    "Answer": "57",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 5, 13, 25, 41, 61, ___",
-    "Type": "Number Series",
-    "Answer": "85",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 18, 29, 44, 63, ___",
-    "Type": "Number Series",
-    "Answer": "86",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 24, 41, 64, 93, ___",
-    "Type": "Number Series",
-    "Answer": "128",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 13, 19, 27, 37, ___",
-    "Type": "Number Series",
-    "Answer": "49",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "7/13",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 26 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "260 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 16, 24, 34, 46, 60, ___",
-    "Type": "Number Series",
-    "Answer": "76",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 14 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "210 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/15",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 28 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "280 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 15 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "150 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "275 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/11",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "525 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 16, 30, 50, 76, 108, ___",
-    "Type": "Number Series",
-    "Answer": "146",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 9, 17, 29, 45, 65, ___",
-    "Type": "Number Series",
-    "Answer": "89",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 12 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "300 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "8.57 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 22 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "330 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 30 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "450 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 21 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "315 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 8 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "8/16",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/8",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "7.50 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 3 Red and 4 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "3/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 13, 20, 31, 46, 65, ___",
-    "Type": "Number Series",
-    "Answer": "88",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 27 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "405 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 54 km/h crosses a pole in 26 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "390 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 16, 23, 32, 43, ___",
-    "Type": "Number Series",
-    "Answer": "56",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 28 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "700 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 16, 28, 46, 70, 100, ___",
-    "Type": "Number Series",
-    "Answer": "136",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "6.67 days",
     "Difficulty": "Hard"
   },
   {
@@ -2766,9 +30,417 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "Find the next term: 11, 19, 31, 47, 67, ___",
+    "Question": "Find the next term: 12, 20, 32, 48, 68, ___",
     "Type": "Number Series",
-    "Answer": "91",
+    "Answer": "92",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "575 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "5.45 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 20, 32, 48, 68, ___",
+    "Type": "Number Series",
+    "Answer": "92",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 30 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "575 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "700 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 27, 46, 71, 102, ___",
+    "Type": "Number Series",
+    "Answer": "139",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 21, 35, 53, 75, ___",
+    "Type": "Number Series",
+    "Answer": "101",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "150 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "375 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "180 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 20, 33, 50, 71, ___",
+    "Type": "Number Series",
+    "Answer": "96",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 24, 39, 58, 81, ___",
+    "Type": "Number Series",
+    "Answer": "108",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 13, 20, 29, 40, ___",
+    "Type": "Number Series",
+    "Answer": "53",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 16 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "240 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/7",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "290 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 17, 31, 51, 77, 109, ___",
+    "Type": "Number Series",
+    "Answer": "147",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "250 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "345 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 20, 34, 52, 74, ___",
+    "Type": "Number Series",
+    "Answer": "100",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "700 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "5.45 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 14, 22, 32, 44, ___",
+    "Type": "Number Series",
+    "Answer": "58",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 26, 41, 60, 83, ___",
+    "Type": "Number Series",
+    "Answer": "110",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "250 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "290 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 22 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "550 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/7",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 12, 19, 28, 39, ___",
+    "Type": "Number Series",
+    "Answer": "52",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/15",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 27 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "675 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "575 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 13, 22, 33, 46, ___",
+    "Type": "Number Series",
+    "Answer": "61",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 26 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "390 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "285 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/16",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/15",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 25, 45, 71, 103, ___",
+    "Type": "Number Series",
+    "Answer": "141",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 16 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "320 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 22, 38, 60, 88, ___",
+    "Type": "Number Series",
+    "Answer": "122",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 15, 23, 33, 45, ___",
+    "Type": "Number Series",
+    "Answer": "59",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "460 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
     "Difficulty": "Hard"
   },
   {
@@ -2784,51 +456,33 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/12",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 6, 13, 24, 39, 58, ___",
-    "Type": "Number Series",
-    "Answer": "81",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 90 km/h crosses a pole in 27 seconds. Find the length of the train.",
+    "Question": "A train traveling at 54 km/h crosses a pole in 16 seconds. Find the length of the train.",
     "Type": "Time & Distance",
-    "Answer": "675 meters",
+    "Answer": "240 meters",
     "Difficulty": "Hard"
   },
   {
-    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "5.45 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
-    "Type": "Time & Work",
-    "Answer": "10.00 days",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 4, 11, 22, 37, 56, ___",
+    "Question": "Find the next term: 12, 19, 30, 45, 64, ___",
     "Type": "Number Series",
-    "Answer": "79",
+    "Answer": "87",
     "Difficulty": "Hard"
   },
   {
-    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/9",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 14, 21, 30, 41, 54, ___",
+    "Question": "Find the next term: 11, 15, 21, 29, 39, ___",
     "Type": "Number Series",
-    "Answer": "69",
+    "Answer": "51",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "460 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
     "Difficulty": "Hard"
   },
   {
@@ -2838,39 +492,9 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A train traveling at 36 km/h crosses a pole in 10 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "100 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "110 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 11, 22, 37, 56, 79, ___",
+    "Question": "Find the next term: 13, 21, 33, 49, 69, ___",
     "Type": "Number Series",
-    "Answer": "106",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 8, 19, 34, 53, 76, ___",
-    "Type": "Number Series",
-    "Answer": "103",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "Find the next term: 15, 27, 45, 69, 99, ___",
-    "Type": "Number Series",
-    "Answer": "135",
+    "Answer": "93",
     "Difficulty": "Hard"
   },
   {
@@ -2880,39 +504,51 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A bag contains 6 Red and 8 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "6/14",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A train traveling at 36 km/h crosses a pole in 22 seconds. Find the length of the train.",
-    "Type": "Time & Distance",
-    "Answer": "220 meters",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
     "Type": "Time & Work",
     "Answer": "8.57 days",
     "Difficulty": "Hard"
   },
   {
-    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "4/7",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
-    "Type": "Probability",
-    "Answer": "5/10",
-    "Difficulty": "Hard"
-  },
-  {
-    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
     "Type": "Time & Work",
     "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 14, 26, 42, 62, ___",
+    "Type": "Number Series",
+    "Answer": "86",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 19, 36, 59, 88, ___",
+    "Type": "Number Series",
+    "Answer": "123",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
+    "Type": "Number Series",
+    "Answer": "112",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 20, 35, 54, 77, ___",
+    "Type": "Number Series",
+    "Answer": "104",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
     "Difficulty": "Hard"
   },
   {
@@ -2922,9 +558,1167 @@
     "Difficulty": "Hard"
   },
   {
+    "Question": "A train traveling at 90 km/h crosses a pole in 11 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "275 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 17, 29, 45, 65, ___",
+    "Type": "Number Series",
+    "Answer": "89",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 26 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "520 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "500 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "240 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/16",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 14, 26, 42, 62, ___",
+    "Type": "Number Series",
+    "Answer": "86",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "435 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 16, 28, 46, 70, 100, ___",
+    "Type": "Number Series",
+    "Answer": "136",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 18 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "450 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "325 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "580 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 18, 27, 38, 51, ___",
+    "Type": "Number Series",
+    "Answer": "66",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 20, 32, 48, 68, ___",
+    "Type": "Number Series",
+    "Answer": "92",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 22 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "550 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 16, 25, 36, 49, ___",
+    "Type": "Number Series",
+    "Answer": "64",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "190 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "380 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "200 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 24 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "480 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 16 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "160 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 30 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "325 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "460 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "200 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 15, 27, 43, 63, ___",
+    "Type": "Number Series",
+    "Answer": "87",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 23, 36, 53, 74, ___",
+    "Type": "Number Series",
+    "Answer": "99",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 14, 22, 32, 44, ___",
+    "Type": "Number Series",
+    "Answer": "58",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "250 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 22, 34, 50, 70, ___",
+    "Type": "Number Series",
+    "Answer": "94",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "725 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "220 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 16, 25, 36, 49, ___",
+    "Type": "Number Series",
+    "Answer": "64",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/6",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 30 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "600 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 16, 27, 42, 61, 84, ___",
+    "Type": "Number Series",
+    "Answer": "111",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "285 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/7",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "5.45 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 19, 30, 45, 64, ___",
+    "Type": "Number Series",
+    "Answer": "87",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 13, 22, 33, 46, ___",
+    "Type": "Number Series",
+    "Answer": "61",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 18, 35, 58, 87, ___",
+    "Type": "Number Series",
+    "Answer": "122",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 18, 25, 34, 45, ___",
+    "Type": "Number Series",
+    "Answer": "58",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 19, 33, 51, 73, ___",
+    "Type": "Number Series",
+    "Answer": "99",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "460 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/7",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 21, 34, 51, 72, ___",
+    "Type": "Number Series",
+    "Answer": "97",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "130 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 17 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "255 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 22, 31, 42, 55, ___",
+    "Type": "Number Series",
+    "Answer": "70",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 27 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "405 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/15",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 26 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "520 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 23, 39, 61, 89, ___",
+    "Type": "Number Series",
+    "Answer": "123",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 25, 42, 65, 94, ___",
+    "Type": "Number Series",
+    "Answer": "129",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 5, 11, 19, 29, 41, ___",
+    "Type": "Number Series",
+    "Answer": "55",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "120 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 24, 39, 58, 81, ___",
+    "Type": "Number Series",
+    "Answer": "108",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 25, 40, 59, 82, ___",
+    "Type": "Number Series",
+    "Answer": "109",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 11 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "110 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 22, 40, 64, 94, ___",
+    "Type": "Number Series",
+    "Answer": "130",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 22, 38, 60, 88, ___",
+    "Type": "Number Series",
+    "Answer": "122",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "285 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "380 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 19, 37, 61, 91, ___",
+    "Type": "Number Series",
+    "Answer": "127",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 21, 37, 59, 87, ___",
+    "Type": "Number Series",
+    "Answer": "121",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "190 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "260 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 18, 25, 34, 45, ___",
+    "Type": "Number Series",
+    "Answer": "58",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 5, 13, 25, 41, 61, ___",
+    "Type": "Number Series",
+    "Answer": "85",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
     "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
     "Type": "Time & Work",
     "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "475 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 19, 30, 45, 64, ___",
+    "Type": "Number Series",
+    "Answer": "87",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 12, 18, 26, 36, ___",
+    "Type": "Number Series",
+    "Answer": "48",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 16, 26, 40, 58, 80, ___",
+    "Type": "Number Series",
+    "Answer": "106",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 25 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "500 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 16, 25, 36, 49, ___",
+    "Type": "Number Series",
+    "Answer": "64",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "280 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 17 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "340 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 25 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "500 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "100 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 15, 25, 37, 51, ___",
+    "Type": "Number Series",
+    "Answer": "67",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "580 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 21, 36, 55, 78, ___",
+    "Type": "Number Series",
+    "Answer": "105",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "250 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 17, 25, 35, 47, ___",
+    "Type": "Number Series",
+    "Answer": "61",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "435 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 29, 49, 75, 107, ___",
+    "Type": "Number Series",
+    "Answer": "145",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/7",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "200 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 25, 45, 71, 103, ___",
+    "Type": "Number Series",
+    "Answer": "141",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 20, 33, 50, 71, ___",
+    "Type": "Number Series",
+    "Answer": "96",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 16, 30, 50, 76, 108, ___",
+    "Type": "Number Series",
+    "Answer": "146",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "5.45 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "460 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 22, 39, 62, 91, ___",
+    "Type": "Number Series",
+    "Answer": "126",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 21 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "420 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 18 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "450 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "200 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "725 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 17 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "170 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "5.45 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 14 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "280 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 26 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "650 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "230 meters",
     "Difficulty": "Hard"
   },
   {
@@ -2940,21 +1734,879 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Question": "Find the next term: 11, 19, 29, 41, 55, ___",
+    "Type": "Number Series",
+    "Answer": "71",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
     "Type": "Time & Work",
     "Answer": "7.50 days",
     "Difficulty": "Hard"
   },
   {
-    "Question": "Find the next term: 9, 15, 23, 33, 45, ___",
+    "Question": "A train traveling at 36 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "280 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 19, 33, 51, 73, ___",
     "Type": "Number Series",
-    "Answer": "59",
+    "Answer": "99",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 23 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "575 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 22, 32, 44, 58, ___",
+    "Type": "Number Series",
+    "Answer": "74",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 27, 47, 73, 105, ___",
+    "Type": "Number Series",
+    "Answer": "143",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 26 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "650 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "380 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 16, 24, 34, 46, 60, ___",
+    "Type": "Number Series",
+    "Answer": "76",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 27 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "675 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 15, 26, 41, 60, ___",
+    "Type": "Number Series",
+    "Answer": "83",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "260 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 19, 36, 59, 88, ___",
+    "Type": "Number Series",
+    "Answer": "123",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "700 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 21, 40, 65, 96, ___",
+    "Type": "Number Series",
+    "Answer": "133",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 24, 44, 70, 102, ___",
+    "Type": "Number Series",
+    "Answer": "140",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 22 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "440 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
+    "Type": "Number Series",
+    "Answer": "112",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 21, 30, 41, 54, ___",
+    "Type": "Number Series",
+    "Answer": "69",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 15, 28, 45, 66, ___",
+    "Type": "Number Series",
+    "Answer": "91",
     "Difficulty": "Hard"
   },
   {
     "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
     "Type": "Time & Work",
     "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 22 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "440 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 21, 38, 61, 90, ___",
+    "Type": "Number Series",
+    "Answer": "125",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 17, 28, 43, 62, 85, ___",
+    "Type": "Number Series",
+    "Answer": "112",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "325 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "180 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 25, 43, 67, 97, ___",
+    "Type": "Number Series",
+    "Answer": "133",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 14, 23, 34, 47, ___",
+    "Type": "Number Series",
+    "Answer": "62",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 16, 29, 46, 67, ___",
+    "Type": "Number Series",
+    "Answer": "92",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 29, 49, 75, 107, ___",
+    "Type": "Number Series",
+    "Answer": "145",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 17, 34, 57, 86, ___",
+    "Type": "Number Series",
+    "Answer": "121",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 19, 30, 45, 64, ___",
+    "Type": "Number Series",
+    "Answer": "87",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 11 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "110 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 17, 31, 49, 71, ___",
+    "Type": "Number Series",
+    "Answer": "97",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 29, 49, 75, 107, ___",
+    "Type": "Number Series",
+    "Answer": "145",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/7",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 16, 28, 44, 64, ___",
+    "Type": "Number Series",
+    "Answer": "88",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 24 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "240 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 22 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "440 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 24 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "240 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/15",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "225 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "150 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 26, 44, 68, 98, ___",
+    "Type": "Number Series",
+    "Answer": "134",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 25, 42, 65, 94, ___",
+    "Type": "Number Series",
+    "Answer": "129",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 15, 28, 45, 66, ___",
+    "Type": "Number Series",
+    "Answer": "91",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/15",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 17 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "425 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "240 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 18 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "360 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 4, 8, 14, 22, 32, ___",
+    "Type": "Number Series",
+    "Answer": "44",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 18, 31, 48, 69, ___",
+    "Type": "Number Series",
+    "Answer": "94",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 29 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "290 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "200 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 17, 31, 49, 71, ___",
+    "Type": "Number Series",
+    "Answer": "97",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 17, 30, 49, 74, 105, ___",
+    "Type": "Number Series",
+    "Answer": "142",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "420 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "420 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "400 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 11 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "220 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 17, 33, 55, 83, ___",
+    "Type": "Number Series",
+    "Answer": "117",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 17, 30, 49, 74, 105, ___",
+    "Type": "Number Series",
+    "Answer": "142",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 27 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "540 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "285 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 17 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "170 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "190 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "180 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 21 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "315 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 22, 38, 60, 88, ___",
+    "Type": "Number Series",
+    "Answer": "122",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/16",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 18, 30, 46, 66, ___",
+    "Type": "Number Series",
+    "Answer": "90",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 14 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "210 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 22 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "550 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 30 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "600 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 17, 28, 43, 62, ___",
+    "Type": "Number Series",
+    "Answer": "85",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 25 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "375 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 26, 41, 60, 83, ___",
+    "Type": "Number Series",
+    "Answer": "110",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 25 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "250 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 18, 27, 38, 51, ___",
+    "Type": "Number Series",
+    "Answer": "66",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 6 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "6/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/13",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 30 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "750 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 14 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "350 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 16, 24, 34, 46, ___",
+    "Type": "Number Series",
+    "Answer": "60",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 28, 48, 74, 106, ___",
+    "Type": "Number Series",
+    "Answer": "144",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 8 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
     "Difficulty": "Hard"
   },
   {
@@ -2970,9 +2622,195 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 26, 43, 66, 95, ___",
+    "Type": "Number Series",
+    "Answer": "130",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 5, 11, 19, 29, 41, ___",
+    "Type": "Number Series",
+    "Answer": "55",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
     "Type": "Time & Work",
-    "Answer": "8.57 days",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 19 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "380 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 18 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "270 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 11, 21, 37, 59, 87, ___",
+    "Type": "Number Series",
+    "Answer": "121",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 13 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "260 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 7, 17, 33, 55, 83, ___",
+    "Type": "Number Series",
+    "Answer": "117",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 14, 26, 42, 62, ___",
+    "Type": "Number Series",
+    "Answer": "86",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 24, 42, 66, 96, ___",
+    "Type": "Number Series",
+    "Answer": "132",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 54 km/h crosses a pole in 25 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "375 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 10, 19, 32, 49, 70, ___",
+    "Type": "Number Series",
+    "Answer": "95",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/10",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "280 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 3 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/6",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/14",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 27 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "540 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 7 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "7/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 13, 20, 29, 40, ___",
+    "Type": "Number Series",
+    "Answer": "53",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 22, 32, 44, 58, ___",
+    "Type": "Number Series",
+    "Answer": "74",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 9, 18, 31, 48, 69, ___",
+    "Type": "Number Series",
+    "Answer": "94",
     "Difficulty": "Hard"
   },
   {
@@ -2982,21 +2820,183 @@
     "Difficulty": "Hard"
   },
   {
-    "Question": "A train traveling at 36 km/h crosses a pole in 20 seconds. Find the length of the train.",
+    "Question": "A train traveling at 54 km/h crosses a pole in 25 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "375 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 12, 21, 34, 51, 72, ___",
+    "Type": "Number Series",
+    "Answer": "97",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 10 seconds. Find the length of the train.",
     "Type": "Time & Distance",
     "Answer": "200 meters",
     "Difficulty": "Hard"
   },
   {
-    "Question": "Find the next term: 5, 12, 23, 38, 57, ___",
-    "Type": "Number Series",
-    "Answer": "80",
+    "Question": "A bag contains 4 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "4/9",
     "Difficulty": "Hard"
   },
   {
-    "Question": "A bag contains 4 Red and 6 Green marbles. What is the probability of picking a Red marble?",
+    "Question": "A train traveling at 54 km/h crosses a pole in 12 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "180 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 4 Red and 7 Green marbles. What is the probability of picking a Red marble?",
     "Type": "Probability",
-    "Answer": "4/10",
+    "Answer": "4/11",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 15, 23, 33, 45, 59, ___",
+    "Type": "Number Series",
+    "Answer": "75",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 16, 29, 48, 73, 104, ___",
+    "Type": "Number Series",
+    "Answer": "141",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "250 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 13, 19, 27, 37, 49, ___",
+    "Type": "Number Series",
+    "Answer": "63",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 36 km/h crosses a pole in 26 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "260 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 15 days and B in 12 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 8, 16, 28, 44, 64, ___",
+    "Type": "Number Series",
+    "Answer": "88",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 20 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "10.00 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 25, 42, 65, 94, ___",
+    "Type": "Number Series",
+    "Answer": "129",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 15 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "300 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 10 days and B in 30 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "7.50 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 8 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "8/12",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 5 Red and 4 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "5/9",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 14, 25, 40, 59, 82, ___",
+    "Type": "Number Series",
+    "Answer": "109",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 72 km/h crosses a pole in 10 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "200 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 20 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "8.57 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A can do a work in 12 days and B in 15 days. In how many days can they complete it together?",
+    "Type": "Time & Work",
+    "Answer": "6.67 days",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A train traveling at 90 km/h crosses a pole in 28 seconds. Find the length of the train.",
+    "Type": "Time & Distance",
+    "Answer": "700 meters",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "A bag contains 3 Red and 5 Green marbles. What is the probability of picking a Red marble?",
+    "Type": "Probability",
+    "Answer": "3/8",
+    "Difficulty": "Hard"
+  },
+  {
+    "Question": "Find the next term: 6, 13, 22, 33, 46, ___",
+    "Type": "Number Series",
+    "Answer": "61",
     "Difficulty": "Hard"
   }
 ]
