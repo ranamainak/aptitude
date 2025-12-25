@@ -1,188 +1,8 @@
 [
     {
-        "Question": "Convert the decimal number 120 to Binary.",
-        "Answer": "1111000",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 26 like Tea, 28 like Coffee, 6 like both. How many like at least one?",
-        "Answer": "48",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 26 like Tea, 24 like Coffee, 5 like both. How many like at least one?",
-        "Answer": "45",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A drawer has socks of 4 different colors. Minimum picks to ensure a matching pair?",
-        "Answer": "5",
-        "Type": "Logical Deduction",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A shooter has a 1/4 chance to hit. If he fires 3 shots, probability he hits at least once?",
-        "Answer": "0.5781",
-        "Type": "Probability",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A drawer has socks of 5 different colors. Minimum picks to ensure a matching pair?",
-        "Answer": "6",
-        "Type": "Logical Deduction",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 48^86.",
+        "Question": "Find the remainder when 2^50 is divided by 7.",
         "Answer": "4",
         "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 58^60.",
-        "Answer": "6",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 176 to Binary.",
-        "Answer": "10110000",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 28 like Tea, 21 like Coffee, 6 like both. How many like at least one?",
-        "Answer": "43",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 100 to Binary.",
-        "Answer": "1100100",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 35^21.",
-        "Answer": "5",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 191 to Binary.",
-        "Answer": "10111111",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 143 to Binary.",
-        "Answer": "10001111",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 26^108.",
-        "Answer": "6",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A shooter has a 1/4 chance to hit. If he fires 3 shots, probability he hits at least once?",
-        "Answer": "0.5781",
-        "Type": "Probability",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A shooter has a 1/4 chance to hit. If he fires 3 shots, probability he hits at least once?",
-        "Answer": "0.5781",
-        "Type": "Probability",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 21^23.",
-        "Answer": "1",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 29 like Tea, 28 like Coffee, 5 like both. How many like at least one?",
-        "Answer": "52",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 167 to Binary.",
-        "Answer": "10100111",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 30 like Tea, 28 like Coffee, 5 like both. How many like at least one?",
-        "Answer": "53",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 169 to Binary.",
-        "Answer": "10101001",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 180 to Binary.",
-        "Answer": "10110100",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 26 like Tea, 25 like Coffee, 6 like both. How many like at least one?",
-        "Answer": "45",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the remainder when 2^52 is divided by 7.",
-        "Answer": "2",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A drawer has socks of 6 different colors. Minimum picks to ensure a matching pair?",
-        "Answer": "7",
-        "Type": "Logical Deduction",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Convert the decimal number 120 to Binary.",
-        "Answer": "1111000",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A shooter has a 1/3 chance to hit. If he fires 2 shots, probability he hits at least once?",
-        "Answer": "0.5556",
-        "Type": "Probability",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 25^80.",
-        "Answer": "5",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 26 like Tea, 24 like Coffee, 10 like both. How many like at least one?",
-        "Answer": "40",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 21 like Tea, 29 like Coffee, 8 like both. How many like at least one?",
-        "Answer": "42",
-        "Type": "Set Theory",
         "Difficulty": "Expert"
     },
     {
@@ -192,8 +12,14 @@
         "Difficulty": "Expert"
     },
     {
-        "Question": "Find the remainder when 2^50 is divided by 7.",
-        "Answer": "4",
+        "Question": "Find the remainder when 2^52 is divided by 7.",
+        "Answer": "2",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the remainder when 2^100 is divided by 7.",
+        "Answer": "2",
         "Type": "Number Theory",
         "Difficulty": "Expert"
     },
@@ -204,9 +30,45 @@
         "Difficulty": "Expert"
     },
     {
-        "Question": "Find the unit digit of 38^73.",
-        "Answer": "8",
+        "Question": "Convert the decimal number 177 to Binary.",
+        "Answer": "10110001",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 145 to Binary.",
+        "Answer": "10010001",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the remainder when 2^50 is divided by 7.",
+        "Answer": "4",
         "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 130 to Binary.",
+        "Answer": "10000010",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 20 like Tea, 25 like Coffee, 10 like both. How many like at least one?",
+        "Answer": "35",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 27 like Tea, 27 like Coffee, 7 like both. How many like at least one?",
+        "Answer": "47",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 21 like Tea, 30 like Coffee, 5 like both. How many like at least one?",
+        "Answer": "46",
+        "Type": "Set Theory",
         "Difficulty": "Expert"
     },
     {
@@ -216,57 +78,27 @@
         "Difficulty": "Expert"
     },
     {
-        "Question": "Convert the decimal number 150 to Binary.",
-        "Answer": "10010110",
-        "Type": "Number Systems",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A shooter has a 1/3 chance to hit. If he fires 3 shots, probability he hits at least once?",
-        "Answer": "0.7037",
-        "Type": "Probability",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 30 like Tea, 26 like Coffee, 5 like both. How many like at least one?",
-        "Answer": "51",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "Find the unit digit of 53^29.",
-        "Answer": "3",
-        "Type": "Number Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "In a group, 21 like Tea, 22 like Coffee, 6 like both. How many like at least one?",
-        "Answer": "37",
-        "Type": "Set Theory",
-        "Difficulty": "Expert"
-    },
-    {
-        "Question": "A shooter has a 1/3 chance to hit. If he fires 3 shots, probability he hits at least once?",
-        "Answer": "0.7037",
-        "Type": "Probability",
-        "Difficulty": "Expert"
-    },
-    {
         "Question": "A shooter has a 1/4 chance to hit. If he fires 3 shots, probability he hits at least once?",
         "Answer": "0.5781",
         "Type": "Probability",
         "Difficulty": "Expert"
     },
     {
-        "Question": "A drawer has socks of 4 different colors. Minimum picks to ensure a matching pair?",
-        "Answer": "5",
+        "Question": "A drawer has socks of 5 different colors. Minimum picks to ensure a matching pair?",
+        "Answer": "6",
         "Type": "Logical Deduction",
         "Difficulty": "Expert"
     },
     {
-        "Question": "A drawer has socks of 3 different colors. Minimum picks to ensure a matching pair?",
+        "Question": "Find the remainder when 2^100 is divided by 7.",
+        "Answer": "2",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the remainder when 2^50 is divided by 7.",
         "Answer": "4",
-        "Type": "Logical Deduction",
+        "Type": "Number Theory",
         "Difficulty": "Expert"
     },
     {
@@ -276,14 +108,134 @@
         "Difficulty": "Expert"
     },
     {
-        "Question": "A shooter has a 1/4 chance to hit. If he fires 3 shots, probability he hits at least once?",
-        "Answer": "0.5781",
+        "Question": "A shooter has a 1/3 chance to hit. If he fires 3 shots, probability he hits at least once?",
+        "Answer": "0.7037",
         "Type": "Probability",
         "Difficulty": "Expert"
     },
     {
-        "Question": "Find the unit digit of 13^142.",
-        "Answer": "9",
+        "Question": "Convert the decimal number 124 to Binary.",
+        "Answer": "1111100",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 23 like Tea, 20 like Coffee, 5 like both. How many like at least one?",
+        "Answer": "38",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "A drawer has socks of 6 different colors. Minimum picks to ensure a matching pair?",
+        "Answer": "7",
+        "Type": "Logical Deduction",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "A shooter has a 1/3 chance to hit. If he fires 2 shots, probability he hits at least once?",
+        "Answer": "0.5556",
+        "Type": "Probability",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 41^150.",
+        "Answer": "1",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "A drawer has socks of 3 different colors. Minimum picks to ensure a matching pair?",
+        "Answer": "4",
+        "Type": "Logical Deduction",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 38^46.",
+        "Answer": "4",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 134 to Binary.",
+        "Answer": "10000110",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 139 to Binary.",
+        "Answer": "10001011",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 25 like Tea, 28 like Coffee, 8 like both. How many like at least one?",
+        "Answer": "45",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 58^50.",
+        "Answer": "4",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 30 like Tea, 22 like Coffee, 10 like both. How many like at least one?",
+        "Answer": "42",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 24 like Tea, 25 like Coffee, 6 like both. How many like at least one?",
+        "Answer": "43",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "A drawer has socks of 3 different colors. Minimum picks to ensure a matching pair?",
+        "Answer": "4",
+        "Type": "Logical Deduction",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 154 to Binary.",
+        "Answer": "10011010",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 55^114.",
+        "Answer": "5",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 164 to Binary.",
+        "Answer": "10100100",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "A shooter has a 1/3 chance to hit. If he fires 2 shots, probability he hits at least once?",
+        "Answer": "0.5556",
+        "Type": "Probability",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 77 to Binary.",
+        "Answer": "1001101",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 55^77.",
+        "Answer": "5",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 51^42.",
+        "Answer": "1",
         "Type": "Number Theory",
         "Difficulty": "Expert"
     },
@@ -294,9 +246,57 @@
         "Difficulty": "Expert"
     },
     {
-        "Question": "A drawer has socks of 5 different colors. Minimum picks to ensure a matching pair?",
+        "Question": "Find the unit digit of 18^130.",
+        "Answer": "4",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "In a group, 25 like Tea, 22 like Coffee, 5 like both. How many like at least one?",
+        "Answer": "42",
+        "Type": "Set Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 144 to Binary.",
+        "Answer": "10010000",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 165 to Binary.",
+        "Answer": "10100101",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 56^64.",
         "Answer": "6",
-        "Type": "Logical Deduction",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 22^29.",
+        "Answer": "2",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Convert the decimal number 199 to Binary.",
+        "Answer": "11000111",
+        "Type": "Number Systems",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 48^148.",
+        "Answer": "6",
+        "Type": "Number Theory",
+        "Difficulty": "Expert"
+    },
+    {
+        "Question": "Find the unit digit of 58^40.",
+        "Answer": "6",
+        "Type": "Number Theory",
         "Difficulty": "Expert"
     }
 ]
