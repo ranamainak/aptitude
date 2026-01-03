@@ -1,14 +1,116 @@
 [
     {
-        "Question": "In a 400m race, A runs at 12 m/s and B at 11 m/s. By what distance does A beat B?",
-        "Answer": "33.3 meters",
+        "Question": "A invests $3000 for 12 months and B invests $7000 for 9 months. Find the ratio of their profit shares.",
+        "Answer": "4 : 7",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Pipe A fills a tank in 15 hrs. A leak at the bottom empties it in 30 hrs. If both are open, how long to fill the tank?",
+        "Answer": "30.00 hours",
+        "Type": "Pipes & Cisterns",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 900g weight for 1kg. Find gain %.",
+        "Answer": "11.11%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "In a 400m race, A runs at 9 m/s and B at 8 m/s. By what distance does A beat B?",
+        "Answer": "44.4 meters",
         "Type": "Races",
         "Difficulty": "Hard"
     },
     {
-        "Question": "Calculate the smaller angle between the two hands of a clock at 10:25.",
-        "Answer": "162.5 degrees",
+        "Question": "A invests $5000 for 12 months and B invests $7000 for 6 months. Find the ratio of their profit shares.",
+        "Answer": "10 : 7",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Pipe A fills a tank in 15 hrs. A leak at the bottom empties it in 60 hrs. If both are open, how long to fill the tank?",
+        "Answer": "20.00 hours",
+        "Type": "Pipes & Cisterns",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 5:25.",
+        "Answer": "12.5 degrees",
         "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 12:25.",
+        "Answer": "137.5 degrees",
+        "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 3:20.",
+        "Answer": "20.0 degrees",
+        "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 950g weight for 1kg. Find gain %.",
+        "Answer": "5.26%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A invests $3000 for 12 months and B invests $8000 for 6 months. Find the ratio of their profit shares.",
+        "Answer": "3 : 4",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
+        "Answer": "25.00%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A invests $4000 for 12 months and B invests $7000 for 6 months. Find the ratio of their profit shares.",
+        "Answer": "8 : 7",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 1:15.",
+        "Answer": "52.5 degrees",
+        "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
+        "Answer": "25.00%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A boat rows 72 km upstream against a current of 4 km/hr. If the boat's speed in still water is 20 km/hr, find the time taken.",
+        "Answer": "4.50 hours",
+        "Type": "Boats & Streams",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A invests $3000 for 12 months and B invests $7000 for 6 months. Find the ratio of their profit shares.",
+        "Answer": "6 : 7",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A boat speeds downstream for 24 km. Boat speed is 14 km/hr and river flows at 6 km/hr. Find the time taken.",
+        "Answer": "1.20 hours",
+        "Type": "Boats & Streams",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "In a 100m race, A runs at 11 m/s and B at 10 m/s. By what distance does A beat B?",
+        "Answer": "9.1 meters",
+        "Type": "Races",
         "Difficulty": "Hard"
     },
     {
@@ -18,26 +120,20 @@
         "Difficulty": "Hard"
     },
     {
-        "Question": "In a 200m race, A runs at 8 m/s and B at 6 m/s. By what distance does A beat B?",
-        "Answer": "50.0 meters",
-        "Type": "Races",
+        "Question": "Calculate the smaller angle between the two hands of a clock at 6:15.",
+        "Answer": "97.5 degrees",
+        "Type": "Clocks",
         "Difficulty": "Hard"
     },
     {
-        "Question": "In a 200m race, A runs at 8 m/s and B at 6 m/s. By what distance does A beat B?",
-        "Answer": "50.0 meters",
-        "Type": "Races",
+        "Question": "Pipe A fills a tank in 12 hrs. A leak at the bottom empties it in 60 hrs. If both are open, how long to fill the tank?",
+        "Answer": "15.00 hours",
+        "Type": "Pipes & Cisterns",
         "Difficulty": "Hard"
     },
     {
-        "Question": "A boat rows 48 km upstream against a current of 5 km/hr. If the boat's speed in still water is 19 km/hr, find the time taken.",
-        "Answer": "3.43 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A invests $3000 for 12 months and B invests $7000 for 9 months. Find the ratio of their profit shares.",
-        "Answer": "4 : 7",
+        "Question": "A invests $2000 for 12 months and B invests $7000 for 8 months. Find the ratio of their profit shares.",
+        "Answer": "3 : 7",
         "Type": "Partnership",
         "Difficulty": "Hard"
     },
@@ -54,8 +150,86 @@
         "Difficulty": "Hard"
     },
     {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 9:10.",
+        "Answer": "145.0 degrees",
+        "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A boat speeds downstream for 72 km. Boat speed is 16 km/hr and river flows at 3 km/hr. Find the time taken.",
+        "Answer": "3.79 hours",
+        "Type": "Boats & Streams",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
+        "Answer": "25.00%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 12:30.",
+        "Answer": "165.0 degrees",
+        "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A invests $3000 for 12 months and B invests $8000 for 9 months. Find the ratio of their profit shares.",
+        "Answer": "1 : 2",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 950g weight for 1kg. Find gain %.",
+        "Answer": "5.26%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A boat speeds downstream for 60 km. Boat speed is 16 km/hr and river flows at 4 km/hr. Find the time taken.",
+        "Answer": "3.00 hours",
+        "Type": "Boats & Streams",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Pipe A fills a tank in 12 hrs. A leak at the bottom empties it in 20 hrs. If both are open, how long to fill the tank?",
+        "Answer": "30.00 hours",
+        "Type": "Pipes & Cisterns",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A boat speeds downstream for 72 km. Boat speed is 12 km/hr and river flows at 4 km/hr. Find the time taken.",
+        "Answer": "4.50 hours",
+        "Type": "Boats & Streams",
+        "Difficulty": "Hard"
+    },
+    {
         "Question": "A dishonest dealer professes to sell goods at CP but uses 900g weight for 1kg. Find gain %.",
         "Answer": "11.11%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A invests $5000 for 12 months and B invests $9000 for 8 months. Find the ratio of their profit shares.",
+        "Answer": "5 : 6",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Calculate the smaller angle between the two hands of a clock at 2:30.",
+        "Answer": "105.0 degrees",
+        "Type": "Clocks",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "In a 200m race, A runs at 10 m/s and B at 8 m/s. By what distance does A beat B?",
+        "Answer": "40.0 meters",
+        "Type": "Races",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
+        "Answer": "25.00%",
         "Type": "Profit & Loss",
         "Difficulty": "Hard"
     },
@@ -66,189 +240,21 @@
         "Difficulty": "Hard"
     },
     {
-        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
-        "Answer": "25.00%",
-        "Type": "Profit & Loss",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 10 hrs. A leak at the bottom empties it in 60 hrs. If both are open, how long to fill the tank?",
-        "Answer": "12.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 15 hrs. A leak at the bottom empties it in 20 hrs. If both are open, how long to fill the tank?",
-        "Answer": "60.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "In a 400m race, A runs at 8 m/s and B at 7 m/s. By what distance does A beat B?",
-        "Answer": "50.0 meters",
-        "Type": "Races",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 10 hrs. A leak at the bottom empties it in 30 hrs. If both are open, how long to fill the tank?",
-        "Answer": "15.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Calculate the smaller angle between the two hands of a clock at 10:50.",
-        "Answer": "25.0 degrees",
-        "Type": "Clocks",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat speeds downstream for 48 km. Boat speed is 17 km/hr and river flows at 2 km/hr. Find the time taken.",
-        "Answer": "2.53 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat rows 60 km upstream against a current of 5 km/hr. If the boat's speed in still water is 13 km/hr, find the time taken.",
-        "Answer": "7.50 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 12 hrs. A leak at the bottom empties it in 30 hrs. If both are open, how long to fill the tank?",
-        "Answer": "20.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat speeds downstream for 24 km. Boat speed is 15 km/hr and river flows at 6 km/hr. Find the time taken.",
-        "Answer": "1.14 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
         "Question": "A dishonest dealer professes to sell goods at CP but uses 950g weight for 1kg. Find gain %.",
         "Answer": "5.26%",
         "Type": "Profit & Loss",
         "Difficulty": "Hard"
     },
     {
-        "Question": "In a 200m race, A runs at 11 m/s and B at 10 m/s. By what distance does A beat B?",
-        "Answer": "18.2 meters",
-        "Type": "Races",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A dishonest dealer professes to sell goods at CP but uses 950g weight for 1kg. Find gain %.",
-        "Answer": "5.26%",
-        "Type": "Profit & Loss",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "In a 400m race, A runs at 12 m/s and B at 10 m/s. By what distance does A beat B?",
-        "Answer": "66.7 meters",
-        "Type": "Races",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat speeds downstream for 24 km. Boat speed is 18 km/hr and river flows at 6 km/hr. Find the time taken.",
-        "Answer": "1.00 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat speeds downstream for 48 km. Boat speed is 19 km/hr and river flows at 2 km/hr. Find the time taken.",
-        "Answer": "2.29 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A invests $5000 for 12 months and B invests $6000 for 6 months. Find the ratio of their profit shares.",
-        "Answer": "5 : 3",
-        "Type": "Partnership",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A invests $2000 for 12 months and B invests $7000 for 6 months. Find the ratio of their profit shares.",
-        "Answer": "4 : 7",
-        "Type": "Partnership",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Calculate the smaller angle between the two hands of a clock at 12:20.",
-        "Answer": "110.0 degrees",
-        "Type": "Clocks",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat rows 36 km upstream against a current of 4 km/hr. If the boat's speed in still water is 15 km/hr, find the time taken.",
-        "Answer": "3.27 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "In a 100m race, A runs at 11 m/s and B at 9 m/s. By what distance does A beat B?",
-        "Answer": "18.2 meters",
-        "Type": "Races",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
-        "Answer": "25.00%",
-        "Type": "Profit & Loss",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "In a 400m race, A runs at 9 m/s and B at 7 m/s. By what distance does A beat B?",
-        "Answer": "88.9 meters",
-        "Type": "Races",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Calculate the smaller angle between the two hands of a clock at 5:30.",
-        "Answer": "15.0 degrees",
-        "Type": "Clocks",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A dishonest dealer professes to sell goods at CP but uses 800g weight for 1kg. Find gain %.",
-        "Answer": "25.00%",
-        "Type": "Profit & Loss",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A invests $3000 for 12 months and B invests $9000 for 8 months. Find the ratio of their profit shares.",
+        "Question": "A invests $2000 for 12 months and B invests $8000 for 6 months. Find the ratio of their profit shares.",
         "Answer": "1 : 2",
         "Type": "Partnership",
         "Difficulty": "Hard"
     },
     {
-        "Question": "A invests $5000 for 12 months and B invests $8000 for 9 months. Find the ratio of their profit shares.",
-        "Answer": "5 : 6",
-        "Type": "Partnership",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A invests $3000 for 12 months and B invests $9000 for 8 months. Find the ratio of their profit shares.",
-        "Answer": "1 : 2",
-        "Type": "Partnership",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A invests $3000 for 12 months and B invests $9000 for 9 months. Find the ratio of their profit shares.",
-        "Answer": "4 : 9",
-        "Type": "Partnership",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 10 hrs. A leak at the bottom empties it in 20 hrs. If both are open, how long to fill the tank?",
-        "Answer": "20.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "In a 200m race, A runs at 12 m/s and B at 11 m/s. By what distance does A beat B?",
-        "Answer": "16.7 meters",
-        "Type": "Races",
+        "Question": "A boat rows 60 km upstream against a current of 5 km/hr. If the boat's speed in still water is 19 km/hr, find the time taken.",
+        "Answer": "4.29 hours",
+        "Type": "Boats & Streams",
         "Difficulty": "Hard"
     },
     {
@@ -258,45 +264,39 @@
         "Difficulty": "Hard"
     },
     {
-        "Question": "In a 400m race, A runs at 12 m/s and B at 11 m/s. By what distance does A beat B?",
-        "Answer": "33.3 meters",
+        "Question": "A invests $2000 for 12 months and B invests $8000 for 9 months. Find the ratio of their profit shares.",
+        "Answer": "1 : 3",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "Pipe A fills a tank in 10 hrs. A leak at the bottom empties it in 30 hrs. If both are open, how long to fill the tank?",
+        "Answer": "15.00 hours",
+        "Type": "Pipes & Cisterns",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A invests $2000 for 12 months and B invests $6000 for 9 months. Find the ratio of their profit shares.",
+        "Answer": "4 : 9",
+        "Type": "Partnership",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "A dishonest dealer professes to sell goods at CP but uses 950g weight for 1kg. Find gain %.",
+        "Answer": "5.26%",
+        "Type": "Profit & Loss",
+        "Difficulty": "Hard"
+    },
+    {
+        "Question": "In a 200m race, A runs at 9 m/s and B at 8 m/s. By what distance does A beat B?",
+        "Answer": "22.2 meters",
         "Type": "Races",
         "Difficulty": "Hard"
     },
     {
-        "Question": "Pipe A fills a tank in 12 hrs. A leak at the bottom empties it in 20 hrs. If both are open, how long to fill the tank?",
-        "Answer": "30.00 hours",
+        "Question": "Pipe A fills a tank in 10 hrs. A leak at the bottom empties it in 30 hrs. If both are open, how long to fill the tank?",
+        "Answer": "15.00 hours",
         "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 12 hrs. A leak at the bottom empties it in 30 hrs. If both are open, how long to fill the tank?",
-        "Answer": "20.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "Pipe A fills a tank in 15 hrs. A leak at the bottom empties it in 20 hrs. If both are open, how long to fill the tank?",
-        "Answer": "60.00 hours",
-        "Type": "Pipes & Cisterns",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat speeds downstream for 36 km. Boat speed is 14 km/hr and river flows at 4 km/hr. Find the time taken.",
-        "Answer": "2.00 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A boat speeds downstream for 48 km. Boat speed is 15 km/hr and river flows at 4 km/hr. Find the time taken.",
-        "Answer": "2.53 hours",
-        "Type": "Boats & Streams",
-        "Difficulty": "Hard"
-    },
-    {
-        "Question": "A dishonest dealer professes to sell goods at CP but uses 900g weight for 1kg. Find gain %.",
-        "Answer": "11.11%",
-        "Type": "Profit & Loss",
         "Difficulty": "Hard"
     }
 ]
